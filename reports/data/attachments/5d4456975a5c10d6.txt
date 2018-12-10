@@ -1,2 +1,0 @@
-base.py                     45 INFO     点击元素:搜索
-base.py                     59 INFO     文员

@@ -102,21 +102,41 @@ class Base():
         height = int(window_size[0])
         return width, height
 
-    def swip_up(self, time=0.5):
+    def swip_down(self, time=0.5):
         '''
         向上滑动
         :return:
         '''
         self.d.drag(self.width / 2, self.height * 3 / 4, self.width / 2, self.height / 4, time)
-        logger.info("向上滑动")
+        logger.info("向下滑动")
 
-    def swip_down(self, time=0.5):
+
+    def swip_up(self, time=0.5):
         '''
         向下滑动
         :return:
         '''
         self.d.drag(self.width / 2, self.height / 4, self.width / 2, self.height * 3 / 4, time)
-        logger.info("向下滑动")
+        logger.info("向上滑动")
+
+
+    def swip_down_element(self,element):
+        '''
+        向下滑动到某个元素
+        :return:
+        '''
+        is_find = False
+        max_count = 5
+        while max_count > 0:
+            if self.find_elements(element):
+               logger.info("向下滑动到:{}".format(element))
+            else:
+                self.swip_down()
+                max_count -= 1;
+                logger.info("向下滑动")
+
+
+
 
 
     def back(self):
@@ -161,6 +181,6 @@ class Base():
             logger.info("断言{}元素存在,成功!".format(element))
             assert True
         else:
-            logger.info("断言{}元素元素存在,失败!".format(element))
+            logger.info("断言{}元素存在,失败!".format(element))
             allure.attach(self.screen_shot("截图"), name="截图", attachment_type=AttachmentType.PNG)
             assert False

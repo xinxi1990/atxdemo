@@ -20,6 +20,6 @@ def init_report():
 
 
 init_env()
-pytest.main(["-s", "testcase","--alluredir=data"])
+pytest.main(["-s","--reruns=2",  "testcase","--alluredir=data"])
 init_report()
 

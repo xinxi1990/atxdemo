@@ -1,0 +1,7 @@
+keyconfig.py
+.pytest_cache
+logs/*
+*.pyc
+.idea/*
+data/*
+reports/*

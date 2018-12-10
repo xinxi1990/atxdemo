@@ -7,18 +7,34 @@
       "name" : "UiObjectNotFoundError: -32002 Client error: <> data: , method: None",
       "children" : [ {
         "name" : "test_login.TestLogin.test_login",
-        "uid" : "141f83bbbcc8ca24",
+        "uid" : "89ceb29922c5c9ca",
         "parentUid" : "e5c40de7304ea430433be9fd1fbdb3e4",
         "status" : "failed",
         "time" : {
-          "start" : 1544430555790,
-          "stop" : 1544430589859,
-          "duration" : 34069
+          "start" : 1544441301400,
+          "stop" : 1544441384725,
+          "duration" : 83325
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
       "uid" : "e5c40de7304ea430433be9fd1fbdb3e4"
+    }, {
+      "name" : "NameError: global name 'allure' is not defined",
+      "children" : [ {
+        "name" : "test_home.TestHome.test_home_guesslike",
+        "uid" : "9c1de11a0bc1fe79",
+        "parentUid" : "a5621fadb2abcea6d22b2d0f941aae6f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544441391226,
+          "stop" : 1544441473906,
+          "duration" : 82680
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a5621fadb2abcea6d22b2d0f941aae6f"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
   } ]
