@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试登录",
+    "children" : [ {
+      "name" : "test_login.TestLogin.test_login",
+      "uid" : "141f83bbbcc8ca24",
+      "parentUid" : "cb9e090212f26a19f617b33539bf280d",
+      "status" : "failed",
+      "time" : {
+        "start" : 1544430555790,
+        "stop" : 1544430589859,
+        "duration" : 34069
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "cb9e090212f26a19f617b33539bf280d"
+  }, {
+    "name" : "测试首页",
+    "children" : [ {
+      "name" : "测试首页搜索",
+      "children" : [ {
+        "name" : "test_home.TestHome.test_home_search",
+        "uid" : "2134be94f9b7c97f",
+        "parentUid" : "e4b3462c5bc1c1af659428f73eb80538",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544430589868,
+          "stop" : 1544430596712,
+          "duration" : 6844
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4b3462c5bc1c1af659428f73eb80538"
+    }, {
+      "name" : "测试首页更多",
+      "children" : [ {
+        "name" : "test_home.TestHome.test_home_more",
+        "uid" : "4fe59047662cc86a",
+        "parentUid" : "b6579b4c682a6b184b095e927e6ac7d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544430596717,
+          "stop" : 1544430603250,
+          "duration" : 6533
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6579b4c682a6b184b095e927e6ac7d0"
+    } ],
+    "uid" : "cd40cc18d2ba81a6d4fc191501925a52"
+  } ]
+}

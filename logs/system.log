@@ -1,0 +1,603 @@
+[2018-12-10 00:10:56,371] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:10:56,371] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:11:00,147] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:11:00,148] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:11:00,463] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:11:00,463] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:11:00,464] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:11:02,160] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:18] 开始登录...
+[2018-12-10 00:13:04,340] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:13:04,341] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:13:04,731] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:13:04,732] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:13:04,732] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:13:06,370] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:18] 开始登录...
+[2018-12-10 00:13:54,732] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:13:54,733] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:13:55,055] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.miui.home', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:13:55,056] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:13:55,056] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:13:56,283] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:18] 开始登录...
+[2018-12-10 00:16:07,502] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:16:07,502] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:16:07,756] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:16:07,757] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:16:07,757] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:16:17,467] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:16:17,467] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:16:17,803] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:16:17,804] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:16:17,804] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:16:29,787] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:16:29,787] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:16:30,056] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:16:30,057] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:16:30,057] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:16:42,762] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:16:42,763] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:16:43,074] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:16:43,074] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:16:43,075] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:17:03,563] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:17:03,563] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:17:03,832] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:17:03,833] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:17:03,833] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:17:14,035] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:17:14,035] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:17:14,348] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:17:14,349] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:17:14,349] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:17:43,083] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:17:43,084] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:17:43,418] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:17:43,418] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:17:43,419] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:17:58,086] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:17:58,087] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:17:58,371] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:17:58,372] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:17:58,372] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:18:14,996] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:18:14,997] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:18:15,320] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:18:15,321] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:18:15,321] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:18:28,034] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:18:28,034] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:18:28,375] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': False, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.systemui', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:18:28,376] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:18:28,376] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:20:17,934] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:20:17,934] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:20:18,248] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:20:18,249] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:20:18,249] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:20:19,511] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:19] 开始登录...
+[2018-12-10 00:20:52,248] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:20:52,249] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:20:52,539] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:20:52,540] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:20:52,540] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:21:15,553] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:22] app测试开始!
+[2018-12-10 00:21:15,553] [INFO] [xinxideMacBook-Pro.local][driver.py - line:23] a3f8ca3a
+[2018-12-10 00:21:15,869] [INFO] [xinxideMacBook-Pro.local][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.luojilab.player', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 00:21:15,870] [INFO] [xinxideMacBook-Pro.local][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 00:21:15,871] [INFO] [xinxideMacBook-Pro.local][conftest.py - line:24] driver初始化
+[2018-12-10 00:21:21,267] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:20] 开始登录...
+[2018-12-10 10:18:00,696] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 10:18:00,696] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 10:18:00,736] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 640, u'displaySizeDpX': 360, u'screenOn': True, u'displayWidth': 1080, u'productName': u'vbox86p', u'currentPackageName': u'com.tencent.mtt.x86', u'sdkInt': 24, u'displayHeight': 1776, u'naturalOrientation': True}
+[2018-12-10 10:18:00,736] [INFO] [bogon][driver.py - line:32] 连接设备:192.168.56.101
+[2018-12-10 10:18:00,736] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 10:18:07,328] [INFO] [bogon][test_login.py - line:20] 开始登录...
+[2018-12-10 10:29:26,312] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 10:29:26,313] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 10:29:26,349] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 640, u'displaySizeDpX': 360, u'screenOn': True, u'displayWidth': 1080, u'productName': u'vbox86p', u'currentPackageName': u'com.wuba', u'sdkInt': 24, u'displayHeight': 1776, u'naturalOrientation': True}
+[2018-12-10 10:29:26,350] [INFO] [bogon][driver.py - line:32] 连接设备:192.168.56.101
+[2018-12-10 10:29:26,351] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 10:29:33,799] [INFO] [bogon][test_login.py - line:20] 开始登录...
+[2018-12-10 12:37:25,275] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:37:25,276] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 12:38:00,119] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:38:00,119] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 12:38:31,119] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:38:31,120] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 12:38:57,778] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:38:57,778] [INFO] [bogon][driver.py - line:23] 192.168.56.101
+[2018-12-10 12:39:20,761] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:39:20,762] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 12:39:21,278] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.miui.home', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 12:39:21,279] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 12:39:21,280] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 12:39:42,507] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:39:42,508] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 12:39:42,789] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 12:39:42,790] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 12:39:42,790] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 12:40:16,766] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:40:16,767] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 12:40:17,039] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 12:40:17,040] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 12:40:17,040] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 12:40:22,713] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 12:40:23,111] [INFO] [bogon][base.py - line:59] 搜索
+[2018-12-10 12:43:33,497] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:43:33,498] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 12:43:33,819] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 12:43:33,819] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 12:43:33,820] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 12:43:35,087] [INFO] [bogon][test_home.py - line:20] 初始化首页
+[2018-12-10 12:43:42,037] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 12:43:42,418] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 12:47:33,159] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 12:47:33,160] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 12:47:33,438] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 12:47:33,439] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 12:47:33,439] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 12:47:34,687] [INFO] [bogon][test_home.py - line:20] 初始化首页
+[2018-12-10 12:47:41,554] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 12:47:41,988] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 13:31:57,610] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:31:57,611] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:31:57,668] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 13:31:57,675] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 13:31:57,680] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 13:31:57,748] [INFO] [bogon][driver.py - line:35] 初始化driver异常![Errno subprocess] /Users/xinxi/Library/Android/sdk/platform-tools/adb -s a3f8ca3a shell PATH=$PATH:/data/local/tmp:/data/data/com.android/shell atx-agent server -d: u'/system/bin/sh: Shell.app/Contents/MacOS/:/Applications/Genymotion.app/Contents/MacOS:/Applications/VirtualBox.app/Contents/MacOS:/Applications/GameBench/GameBench/lib:/Users/xinxi/Library/Android/sdk/emulator:/Users/xinxi/Library/Android/sdk/build-tools/27.0.3:/Users/xinxi/Library/Android/sdk/platform-tools:/Users/xinxi/Library/Android/sdk/tools/bin:/Users/xinxi/Library/Android/sdk/tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:/usr/local/bin:/Users/xinxi/Documents/mongodb-osx-x86_64-4.0.4/bin:/Users/xinxi/Documents/allure-2.7.0/bin:/Users/xinxi/Documents/oclint-0.13.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/xinxi/.npm-global/lib/node_modules/stf/bin:/usr/local/mysql/bin::/Users/xinxi/Documents/android-ndk-r16b/:/Users/xinxi/Documents/phantomjs-2.1.1-macosx/bin:/Users/xinxi/.rvm/bin:/usr/local/go/bin:/usr/local/mysql/bin:/Users/xinxi/Documents/scala-2.12.6/bin:/usr/local/bin:/Users/xinxi/Documents/gradle-4.10.2/bin:/Users/xinxi/.rvm/bin:/data/local/tmp:/data/data/com.android/shell: not found\n'
+[2018-12-10 13:31:57,749] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:34:14,515] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:34:14,515] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:34:15,040] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 13:34:15,040] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 13:34:15,041] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:34:16,646] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 13:34:23,738] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 13:34:24,158] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 13:34:59,761] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:34:59,761] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:35:00,030] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 13:35:00,030] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 13:35:00,030] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:35:01,196] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 13:35:05,598] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 13:35:05,977] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 13:48:41,289] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:48:41,290] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:48:41,571] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 13:48:41,571] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 13:48:41,572] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:48:50,095] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 13:48:50,428] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 13:48:52,012] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 13:49:05,325] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:49:05,326] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:49:05,578] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 13:49:05,579] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 13:49:05,579] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:49:11,798] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 13:49:11,956] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 13:49:13,380] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 13:49:13,938] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 13:49:14,352] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 13:49:16,028] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 13:49:27,042] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 13:49:27,042] [INFO] [bogon][driver.py - line:23] a3f8ca3a
+[2018-12-10 13:49:27,329] [INFO] [bogon][driver.py - line:25] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 13:49:27,330] [INFO] [bogon][driver.py - line:32] 连接设备:a3f8ca3a
+[2018-12-10 13:49:27,330] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 13:49:32,549] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 13:49:32,689] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 13:49:34,232] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 13:49:34,808] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 13:49:35,218] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 13:49:36,734] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:01:23,445] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:01:23,446] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:01:23,741] [INFO] [bogon][driver.py - line:24] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:01:23,742] [INFO] [bogon][driver.py - line:31] 连接设备:a3f8ca3a
+[2018-12-10 14:01:23,742] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:01:32,009] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:01:32,162] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:01:33,682] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:01:34,279] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 14:01:34,658] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 14:01:36,182] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:01:37,983] [INFO] [bogon][base.py - line:164] 断言密码元素元素存在,失败!
+[2018-12-10 14:02:17,224] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:02:17,224] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:02:17,520] [INFO] [bogon][driver.py - line:24] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:02:17,520] [INFO] [bogon][driver.py - line:31] 连接设备:a3f8ca3a
+[2018-12-10 14:02:17,520] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:02:23,775] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:02:23,909] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:02:25,377] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:02:49,184] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:02:49,184] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:02:49,451] [INFO] [bogon][driver.py - line:24] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:02:49,452] [INFO] [bogon][driver.py - line:31] 连接设备:a3f8ca3a
+[2018-12-10 14:02:49,452] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:02:56,209] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:02:56,390] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:02:57,907] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:02:58,510] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 14:02:59,008] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 14:03:00,612] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:03:00,986] [INFO] [bogon][base.py - line:142] 查询到com.wuba:id/mycenter_head_image
+[2018-12-10 14:03:00,986] [INFO] [bogon][base.py - line:164] 断言com.wuba:id/mycenter_head_image元素元素存在,失败!
+[2018-12-10 14:03:37,529] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:03:37,529] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:03:37,812] [INFO] [bogon][driver.py - line:24] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:03:37,813] [INFO] [bogon][driver.py - line:31] 连接设备:a3f8ca3a
+[2018-12-10 14:03:37,813] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:03:44,924] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:03:45,101] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:03:46,651] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:03:47,188] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 14:03:47,619] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 14:03:49,193] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:03:51,023] [INFO] [bogon][base.py - line:164] 断言我的发布元素元素存在,失败!
+[2018-12-10 14:05:03,521] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:05:03,521] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:05:03,760] [INFO] [bogon][driver.py - line:24] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:05:03,761] [INFO] [bogon][driver.py - line:31] 连接设备:a3f8ca3a
+[2018-12-10 14:05:03,761] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:05:12,106] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:05:12,242] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:05:13,833] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:05:14,368] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 14:05:14,779] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 14:05:16,328] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:05:18,273] [INFO] [bogon][base.py - line:164] 断言我的发布元素元素存在,失败!
+[2018-12-10 14:55:13,911] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:55:13,911] [INFO] [bogon][driver.py - line:22] a3f8ca3a
+[2018-12-10 14:55:13,975] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', BadStatusLine("''",))': http://127.0.0.1:51578/version
+[2018-12-10 14:55:13,983] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', BadStatusLine("''",))': http://127.0.0.1:51578/version
+[2018-12-10 14:55:13,991] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', BadStatusLine("''",))': http://127.0.0.1:51578/version
+[2018-12-10 14:55:14,061] [INFO] [bogon][driver.py - line:34] 初始化driver异常![Errno subprocess] /Users/xinxi/Library/Android/sdk/platform-tools/adb -s a3f8ca3a shell PATH=$PATH:/data/local/tmp:/data/data/com.android/shell atx-agent server -d: u'/system/bin/sh: Shell.app/Contents/MacOS/:/Applications/Genymotion.app/Contents/MacOS:/Applications/VirtualBox.app/Contents/MacOS:/Applications/GameBench/GameBench/lib:/Users/xinxi/Library/Android/sdk/emulator:/Users/xinxi/Library/Android/sdk/build-tools/27.0.3:/Users/xinxi/Library/Android/sdk/platform-tools:/Users/xinxi/Library/Android/sdk/tools/bin:/Users/xinxi/Library/Android/sdk/tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:/usr/local/bin:/Users/xinxi/Documents/mongodb-osx-x86_64-4.0.4/bin:/Users/xinxi/Documents/allure-2.7.0/bin:/Users/xinxi/Documents/oclint-0.13.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/xinxi/.npm-global/lib/node_modules/stf/bin:/usr/local/mysql/bin::/Users/xinxi/Documents/android-ndk-r16b/:/Users/xinxi/Documents/phantomjs-2.1.1-macosx/bin:/Users/xinxi/.rvm/bin:/usr/local/go/bin:/usr/local/mysql/bin:/Users/xinxi/Documents/scala-2.12.6/bin:/usr/local/bin:/Users/xinxi/Documents/gradle-4.10.2/bin:/Users/xinxi/.rvm/bin:/data/local/tmp:/data/data/com.android/shell: not found\n'
+[2018-12-10 14:55:14,063] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:58:10,802] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:58:15,174] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 14:58:15,175] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 14:58:25,906] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:58:25,907] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 14:58:25,907] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:58:32,550] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:58:32,763] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:58:34,333] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:58:38,698] [INFO] [bogon][conftest.py - line:28] app测试结束!
+[2018-12-10 14:58:57,264] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:59:00,338] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 14:59:00,338] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 14:59:10,913] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:59:10,914] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 14:59:10,915] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:59:18,433] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 14:59:18,653] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 14:59:20,228] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 14:59:20,684] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 14:59:21,108] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 14:59:22,688] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 14:59:24,557] [INFO] [bogon][base.py - line:164] 断言我的发布元素元素存在,失败!
+[2018-12-10 14:59:24,587] [INFO] [bogon][conftest.py - line:28] app测试结束!
+[2018-12-10 14:59:24,594] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 14:59:27,712] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 14:59:27,713] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 14:59:38,265] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 14:59:38,266] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 14:59:38,267] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 14:59:39,472] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 14:59:44,556] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 14:59:45,141] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 14:59:45,144] [INFO] [bogon][conftest.py - line:28] app测试结束!
+[2018-12-10 15:01:23,053] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 15:01:26,254] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:01:26,255] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:01:35,657] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:01:35,658] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:02:02,323] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 15:02:05,539] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:02:05,539] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:02:16,095] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:02:16,095] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:02:16,095] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 15:02:17,434] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 15:02:24,778] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 15:02:25,284] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 15:02:25,286] [INFO] [bogon][conftest.py - line:28] app测试结束!
+[2018-12-10 15:02:25,297] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 15:02:28,327] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:02:28,327] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:02:56,404] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 15:02:59,535] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:02:59,536] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:03:10,221] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:03:10,222] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:03:10,253] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 15:03:13,440] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:03:13,441] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:03:24,954] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:03:24,955] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:24:21,661] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:24:24,723] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:24:24,723] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:24:35,218] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:24:35,219] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:24:35,219] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:24:44,258] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 15:24:44,470] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 15:24:46,083] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 15:24:46,582] [INFO] [bogon][base.py - line:59] 账号
+[2018-12-10 15:24:47,009] [INFO] [bogon][base.py - line:59] 密码
+[2018-12-10 15:24:48,549] [INFO] [bogon][base.py - line:45] 点击元素:登录
+[2018-12-10 15:24:50,694] [INFO] [bogon][base.py - line:164] 断言我的发布元素元素存在,失败!
+[2018-12-10 15:24:50,720] [INFO] [bogon][conftest.py - line:26] app测试结束!
+[2018-12-10 15:24:50,729] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:24:53,853] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:24:53,853] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:25:04,267] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:25:04,268] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:25:04,268] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:25:05,448] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 15:25:10,390] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 15:25:10,769] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 15:25:10,772] [INFO] [bogon][conftest.py - line:26] app测试结束!
+[2018-12-10 15:25:48,645] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:25:51,377] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:25:51,378] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:26:01,896] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:26:01,897] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:26:48,926] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:26:52,012] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:26:52,013] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:27:01,443] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:27:01,444] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:27:01,471] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:27:04,577] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:27:04,578] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:27:15,138] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:27:15,138] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:27:24,792] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:27:27,939] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:27:27,939] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:27:37,453] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:27:37,454] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:27:37,480] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:27:40,557] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:27:40,558] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:27:51,103] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:27:51,104] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:28:01,275] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:28:04,429] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:28:04,434] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:28:15,028] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:28:15,029] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:28:15,059] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:28:18,283] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:28:18,284] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:28:28,558] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:28:28,559] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:28:50,706] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:28:53,800] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:28:53,801] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:29:04,322] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:29:04,322] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:29:04,323] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:29:13,219] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 15:29:13,401] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 15:29:15,136] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 15:29:30,464] [INFO] [bogon][conftest.py - line:26] app测试结束!
+[2018-12-10 15:29:30,470] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:29:33,331] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:29:33,332] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:29:33,358] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 15:29:33,367] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 15:29:33,371] [WARNING] [bogon][connectionpool.py - line:662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ProtocolError('Connection aborted.', error(54, 'Connection reset by peer'))': /version
+[2018-12-10 15:29:33,416] [INFO] [bogon][driver.py - line:39] 初始化driver异常![Errno subprocess] /Users/xinxi/Library/Android/sdk/platform-tools/adb -s a3f8ca3a shell PATH=$PATH:/data/local/tmp:/data/data/com.android/shell atx-agent server -d: u'/system/bin/sh: Shell.app/Contents/MacOS/:/Applications/Genymotion.app/Contents/MacOS:/Applications/VirtualBox.app/Contents/MacOS:/Applications/GameBench/GameBench/lib:/Users/xinxi/Library/Android/sdk/emulator:/Users/xinxi/Library/Android/sdk/build-tools/27.0.3:/Users/xinxi/Library/Android/sdk/platform-tools:/Users/xinxi/Library/Android/sdk/tools/bin:/Users/xinxi/Library/Android/sdk/tools:/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/bin:/usr/local/bin:/Users/xinxi/Documents/mongodb-osx-x86_64-4.0.4/bin:/Users/xinxi/Documents/allure-2.7.0/bin:/Users/xinxi/Documents/oclint-0.13.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/Applications/Wireshark.app/Contents/MacOS:/Users/xinxi/.npm-global/lib/node_modules/stf/bin:/usr/local/mysql/bin::/Users/xinxi/Documents/android-ndk-r16b/:/Users/xinxi/Documents/phantomjs-2.1.1-macosx/bin:/Users/xinxi/.rvm/bin:/usr/local/go/bin:/usr/local/mysql/bin:/Users/xinxi/Documents/scala-2.12.6/bin:/usr/local/bin:/Users/xinxi/Documents/gradle-4.10.2/bin:/Users/xinxi/.rvm/bin:/data/local/tmp:/data/data/com.android/shell: not found\n'
+[2018-12-10 15:29:33,419] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:31:54,426] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:31:57,552] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:31:57,553] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:32:08,282] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:32:08,283] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:32:08,283] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:32:09,492] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:32:12,091] [INFO] [bogon][driver.py - line:45] 初始化运行环境!
+[2018-12-10 15:32:12,092] [INFO] [bogon][driver.py - line:27] a3f8ca3a
+[2018-12-10 15:32:22,660] [INFO] [bogon][driver.py - line:29] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:32:22,661] [INFO] [bogon][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-10 15:32:22,661] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:38:10,008] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:38:12,074] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:38:12,074] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:38:22,517] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:38:22,519] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:38:22,519] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:38:23,663] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:38:23,663] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:38:23,890] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.miui.systemAdSolution', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:38:23,890] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:38:23,891] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:41:15,789] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:41:17,804] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:41:17,804] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:41:28,220] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:41:28,222] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:41:28,223] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:41:32,415] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:41:32,415] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:41:32,640] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.miui.systemAdSolution', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:41:32,641] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:41:32,641] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:41:39,484] [INFO] [bogon][run.py - line:19] 报告地址:/reports/index.html
+[2018-12-10 15:42:08,362] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:42:10,342] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:42:10,342] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:42:20,844] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:42:20,846] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:42:20,847] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:42:27,369] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 15:42:27,521] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 15:42:29,012] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 15:42:44,302] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:42:44,302] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:42:44,562] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:42:44,563] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:42:44,563] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:42:48,770] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 15:42:50,541] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 15:42:50,955] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 15:42:53,498] [INFO] [bogon][run.py - line:19] 报告地址:/reports/index.html
+[2018-12-10 15:48:47,594] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:48:49,714] [INFO] [bogon][conftest.py - line:21] app测试开始!
+[2018-12-10 15:48:49,714] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:49:00,182] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:49:00,184] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:49:02,818] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 15:49:21,330] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:49:23,446] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:49:23,446] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:49:33,958] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:49:33,959] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:49:33,959] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:49:42,778] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 15:49:42,952] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 15:49:44,597] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 15:50:00,114] [INFO] [bogon][conftest.py - line:27] app测试结束!
+[2018-12-10 15:50:00,121] [INFO] [bogon][conftest.py - line:20] app测试开始!
+[2018-12-10 15:50:00,121] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 15:50:00,402] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 15:50:00,402] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 15:50:00,403] [INFO] [bogon][conftest.py - line:22] driver初始化
+[2018-12-10 15:50:04,641] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 15:50:06,508] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 15:50:06,880] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 15:50:06,882] [INFO] [bogon][conftest.py - line:27] app测试结束!
+[2018-12-10 15:50:09,270] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 15:55:32,580] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:57:27,116] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:57:52,044] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 15:57:56,090] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 16:20:04,916] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 16:20:06,930] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:20:06,931] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:20:17,404] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:20:17,404] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:20:17,405] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:20:21,612] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:20:23,643] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 16:20:24,230] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 16:20:24,232] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:20:24,247] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:20:24,247] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:20:24,500] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:20:24,501] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:20:24,501] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:20:30,949] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 16:20:31,121] [INFO] [bogon][test_login.py - line:25] 初始化登录
+[2018-12-10 16:20:32,695] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 16:20:48,029] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:20:51,339] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 16:24:16,503] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 16:24:18,543] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:24:18,543] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:24:29,003] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:24:29,004] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:24:29,004] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:24:38,546] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 16:24:38,742] [INFO] [bogon][test_login.py - line:26] 初始化登录
+[2018-12-10 16:24:40,323] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 16:24:55,907] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:24:55,914] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:24:55,914] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:24:56,161] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:24:56,162] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:24:56,162] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:25:00,721] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:25:02,548] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 16:25:03,031] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 16:25:03,033] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:25:05,494] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 16:27:04,243] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 16:27:06,012] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:27:06,012] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:27:16,398] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:27:16,401] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:27:16,401] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:27:20,600] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:27:22,334] [INFO] [bogon][base.py - line:45] 点击元素:更多
+[2018-12-10 16:27:22,336] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:27:22,347] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:27:22,347] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:27:22,573] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:27:22,574] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:27:22,574] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:27:28,987] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 16:27:29,129] [INFO] [bogon][test_login.py - line:26] 初始化登录
+[2018-12-10 16:27:30,656] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 16:27:46,125] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:27:46,131] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:27:46,131] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:27:46,392] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:27:46,393] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:27:46,393] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:27:50,681] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:27:54,630] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 16:27:55,051] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 16:27:55,053] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:27:57,482] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 16:28:01,807] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 16:28:03,681] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:28:03,681] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:28:14,104] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:28:14,105] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:28:14,105] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:28:20,411] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 16:28:20,580] [INFO] [bogon][test_login.py - line:26] 初始化登录
+[2018-12-10 16:28:22,283] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 16:28:37,716] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:28:37,724] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:28:37,724] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:28:37,972] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:28:37,972] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:28:37,973] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:28:42,120] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:28:44,117] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 16:28:44,525] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 16:28:44,528] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:28:44,535] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:28:44,535] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:28:44,790] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:28:44,790] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:28:44,791] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:28:49,161] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:28:51,083] [INFO] [bogon][base.py - line:45] 点击元素:更多
+[2018-12-10 16:28:51,085] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:28:53,761] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html
+[2018-12-10 16:29:13,745] [INFO] [bogon][run.py - line:12] 初始化运行环境!
+[2018-12-10 16:29:15,792] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:29:15,794] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:29:25,278] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:29:25,278] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:29:25,279] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:29:32,472] [INFO] [bogon][base.py - line:45] 点击元素:我的
+[2018-12-10 16:29:32,673] [INFO] [bogon][test_login.py - line:26] 初始化登录
+[2018-12-10 16:29:34,318] [INFO] [bogon][base.py - line:45] 点击元素:头像
+[2018-12-10 16:29:49,860] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:29:49,868] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:29:49,868] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:29:50,155] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:29:50,157] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:29:50,157] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:29:54,579] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:29:56,321] [INFO] [bogon][base.py - line:45] 点击元素:搜索
+[2018-12-10 16:29:56,711] [INFO] [bogon][base.py - line:59] 文员
+[2018-12-10 16:29:56,713] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:29:56,718] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 16:29:56,718] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 16:29:56,972] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 16:29:56,972] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 16:29:56,973] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 16:30:01,350] [INFO] [bogon][test_home.py - line:21] 初始化首页
+[2018-12-10 16:30:03,248] [INFO] [bogon][base.py - line:45] 点击元素:更多
+[2018-12-10 16:30:03,250] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 16:30:06,094] [INFO] [bogon][run.py - line:19] 报告地址:/Users/xinxi/PycharmProjects/atxdemo/reports/index.html

@@ -1,0 +1,7 @@
+conftest.py                 22 INFO     app测试开始!
+driver.py                   24 INFO     a3f8ca3a
+driver.py                   26 INFO     设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.browser', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+driver.py                   33 INFO     连接设备:a3f8ca3a
+conftest.py                 24 INFO     driver初始化
+base.py                     45 INFO     点击元素:我的
+test_login.py               26 INFO     初始化登录

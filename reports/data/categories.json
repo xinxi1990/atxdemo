@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "UiObjectNotFoundError: -32002 Client error: <> data: , method: None",
+      "children" : [ {
+        "name" : "test_login.TestLogin.test_login",
+        "uid" : "141f83bbbcc8ca24",
+        "parentUid" : "e5c40de7304ea430433be9fd1fbdb3e4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544430555790,
+          "stop" : 1544430589859,
+          "duration" : 34069
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e5c40de7304ea430433be9fd1fbdb3e4"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

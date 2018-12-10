@@ -1,0 +1,60 @@
+{
+  "3e73226834e78092a3727f3ebe85eada" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fe59047662cc86a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544430596717,
+        "stop" : 1544430603250,
+        "duration" : 6533
+      }
+    } ]
+  },
+  "59d464324fac86733c83dc1cdb4d9cfe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2134be94f9b7c97f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1544430589868,
+        "stop" : 1544430596712,
+        "duration" : 6844
+      }
+    } ]
+  },
+  "7740b77787667323ebdec098f8ecfa0b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "141f83bbbcc8ca24",
+      "status" : "failed",
+      "statusDetails" : "UiObjectNotFoundError: -32002 Client error: <> data: , method: None",
+      "time" : {
+        "start" : 1544430555790,
+        "stop" : 1544430589859,
+        "duration" : 34069
+      }
+    } ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "141f83bbbcc8ca24",
+  "name" : "test_login.TestLogin.test_login",
+  "fullName" : "testcase.test_login.TestLogin.test_login",
+  "historyId" : "7740b77787667323ebdec098f8ecfa0b",
+  "time" : {
+    "start" : 1544430555790,
+    "stop" : 1544430589859,
+    "duration" : 34069
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "UiObjectNotFoundError: -32002 Client error: <> data: , method: None",
+  "statusTrace" : "self = <testcase.test_login.TestLogin instance at 0x11212d050>, init = <module.login.Login instance at 0x11218b200>\n\n    @allure.story('测试登录')\n    def test_login(self,init):\n>       init.login()\n\ntestcase/test_login.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nmodule/login.py:34: in login\n    self.base.send_keys(username_edit,username,username_text)\nmodule/base.py:58: in send_keys\n    self.d(resourceId=element).set_text(sendtext)\n/usr/local/lib/python2.7/site-packages/uiautomator2/__init__.py:2022: in set_text\n    self.must_wait(timeout=timeout)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <uiautomator2.UiObject object at 0x112135b90>, exists = True, timeout = None\n\n    def must_wait(self, exists=True, timeout=None):\n        \"\"\" wait and if not found raise UiObjectNotFoundError \"\"\"\n        if not self.wait(exists, timeout):\n>           raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})\nE           UiObjectNotFoundError: -32002 Client error: <> data: , method: None\n\n/usr/local/lib/python2.7/site-packages/uiautomator2/__init__.py:2015: UiObjectNotFoundError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "UiObjectNotFoundError: -32002 Client error: <> data: , method: None",
+    "statusTrace" : "self = <testcase.test_login.TestLogin instance at 0x11212d050>, init = <module.login.Login instance at 0x11218b200>\n\n    @allure.story('测试登录')\n    def test_login(self,init):\n>       init.login()\n\ntestcase/test_login.py:32: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nmodule/login.py:34: in login\n    self.base.send_keys(username_edit,username,username_text)\nmodule/base.py:58: in send_keys\n    self.d(resourceId=element).set_text(sendtext)\n/usr/local/lib/python2.7/site-packages/uiautomator2/__init__.py:2022: in set_text\n    self.must_wait(timeout=timeout)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <uiautomator2.UiObject object at 0x112135b90>, exists = True, timeout = None\n\n    def must_wait(self, exists=True, timeout=None):\n        \"\"\" wait and if not found raise UiObjectNotFoundError \"\"\"\n        if not self.wait(exists, timeout):\n>           raise UiObjectNotFoundError({'code': -32002, 'method': 'wait'})\nE           UiObjectNotFoundError: -32002 Client error: <> data: , method: None\n\n/usr/local/lib/python2.7/site-packages/uiautomator2/__init__.py:2015: UiObjectNotFoundError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "730cfcb98a70cc08",
+      "name" : "Captured log setup",
+      "source" : "730cfcb98a70cc08.txt",
+      "type" : "text/plain",
+      "size" : 648
+    }, {
+      "uid" : "b585b65146f0f594",
+      "name" : "Captured log call",
+      "source" : "b585b65146f0f594.txt",
+      "type" : "text/plain",
+      "size" : 59
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试登录"
+  }, {
+    "name" : "thread",
+    "value" : "49604-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login.TestLogin.test_login"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "141f83bbbcc8ca24.json",
+  "parameterValues" : [ ]
+}

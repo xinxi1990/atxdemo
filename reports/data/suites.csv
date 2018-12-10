@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"failed","testcase.test_login.TestLogin.test_login","34069",""
+"passed","testcase.test_home.TestHome.test_home_search","6844",""
+"passed","testcase.test_home.TestHome.test_home_more","6533",""

@@ -1,0 +1,31 @@
+[2018-12-09 23:43:05,377] [INFO] [xinxideMacBook-Pro.local][test_login.py - line:18] 登录测试...
+[2018-12-09 23:46:25,346] [INFO] [xinxideMacBook-Pro.local][base.py - line:23] app测试开始!
+[2018-12-09 23:46:25,347] [INFO] [xinxideMacBook-Pro.local][driver.py - line:27] a3f8ca3a
+[2018-12-09 23:46:25,596] [INFO] [xinxideMacBook-Pro.local][driver.py - line:29] 设备信息:{u'displayRotation': 1, u'displaySizeDpY': 393, u'displaySizeDpX': 816, u'screenOn': True, u'displayWidth': 2004, u'productName': u'sirius', u'currentPackageName': u'com.tencent.qqlive', u'sdkInt': 27, u'displayHeight': 1080, u'naturalOrientation': False}
+[2018-12-09 23:46:25,597] [INFO] [xinxideMacBook-Pro.local][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-09 23:46:25,597] [INFO] [xinxideMacBook-Pro.local][base.py - line:25] driver初始化
+[2018-12-09 23:46:25,615] [INFO] [xinxideMacBook-Pro.local][base.py - line:27] app测试结束!
+[2018-12-09 23:50:14,652] [INFO] [xinxideMacBook-Pro.local][base.py - line:22] app测试开始!
+[2018-12-09 23:50:14,653] [INFO] [xinxideMacBook-Pro.local][driver.py - line:27] a3f8ca3a
+[2018-12-09 23:50:14,918] [INFO] [xinxideMacBook-Pro.local][driver.py - line:29] 设备信息:{u'displayRotation': 1, u'displaySizeDpY': 393, u'displaySizeDpX': 816, u'screenOn': True, u'displayWidth': 2004, u'productName': u'sirius', u'currentPackageName': u'com.tencent.qqlive', u'sdkInt': 27, u'displayHeight': 1080, u'naturalOrientation': False}
+[2018-12-09 23:50:14,918] [INFO] [xinxideMacBook-Pro.local][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-09 23:50:14,919] [INFO] [xinxideMacBook-Pro.local][base.py - line:24] driver初始化
+[2018-12-09 23:50:14,937] [INFO] [xinxideMacBook-Pro.local][base.py - line:26] app测试结束!
+[2018-12-09 23:50:30,927] [INFO] [xinxideMacBook-Pro.local][base.py - line:22] app测试开始!
+[2018-12-09 23:50:30,928] [INFO] [xinxideMacBook-Pro.local][driver.py - line:27] a3f8ca3a
+[2018-12-09 23:50:31,147] [INFO] [xinxideMacBook-Pro.local][driver.py - line:29] 设备信息:{u'displayRotation': 1, u'displaySizeDpY': 393, u'displaySizeDpX': 816, u'screenOn': True, u'displayWidth': 2004, u'productName': u'sirius', u'currentPackageName': u'com.tencent.qqlive', u'sdkInt': 27, u'displayHeight': 1080, u'naturalOrientation': False}
+[2018-12-09 23:50:31,148] [INFO] [xinxideMacBook-Pro.local][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-09 23:50:31,148] [INFO] [xinxideMacBook-Pro.local][base.py - line:24] driver初始化
+[2018-12-09 23:50:31,166] [INFO] [xinxideMacBook-Pro.local][base.py - line:26] app测试结束!
+[2018-12-09 23:51:04,920] [INFO] [xinxideMacBook-Pro.local][base.py - line:22] app测试开始!
+[2018-12-09 23:51:04,920] [INFO] [xinxideMacBook-Pro.local][driver.py - line:27] a3f8ca3a
+[2018-12-09 23:51:05,159] [INFO] [xinxideMacBook-Pro.local][driver.py - line:29] 设备信息:{u'displayRotation': 1, u'displaySizeDpY': 393, u'displaySizeDpX': 816, u'screenOn': True, u'displayWidth': 2004, u'productName': u'sirius', u'currentPackageName': u'com.tencent.qqlive', u'sdkInt': 27, u'displayHeight': 1080, u'naturalOrientation': False}
+[2018-12-09 23:51:05,159] [INFO] [xinxideMacBook-Pro.local][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-09 23:51:05,159] [INFO] [xinxideMacBook-Pro.local][base.py - line:24] driver初始化
+[2018-12-09 23:51:05,174] [INFO] [xinxideMacBook-Pro.local][base.py - line:26] app测试结束!
+[2018-12-09 23:55:33,644] [INFO] [xinxideMacBook-Pro.local][base.py - line:22] app测试开始!
+[2018-12-09 23:55:33,644] [INFO] [xinxideMacBook-Pro.local][driver.py - line:27] a3f8ca3a
+[2018-12-09 23:55:33,892] [INFO] [xinxideMacBook-Pro.local][driver.py - line:29] 设备信息:{u'displayRotation': 1, u'displaySizeDpY': 393, u'displaySizeDpX': 816, u'screenOn': True, u'displayWidth': 2004, u'productName': u'sirius', u'currentPackageName': u'com.tencent.qqlive', u'sdkInt': 27, u'displayHeight': 1080, u'naturalOrientation': False}
+[2018-12-09 23:55:33,893] [INFO] [xinxideMacBook-Pro.local][driver.py - line:36] 连接设备:a3f8ca3a
+[2018-12-09 23:55:33,893] [INFO] [xinxideMacBook-Pro.local][base.py - line:24] driver初始化
+[2018-12-09 23:55:33,912] [INFO] [xinxideMacBook-Pro.local][base.py - line:26] app测试结束!
