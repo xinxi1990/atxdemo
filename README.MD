@@ -35,8 +35,12 @@ python -m weditor<br>
 ## 运行命令
 
 测试单个方法: pytest -k test_home_search --alluredir=reports -s <br>
+测试PO级Case: pytest -v -m "P0" --alluredir=reports
 
 ## 生成报告
 allure generate --clean reports -o myreport
 
 
+
+## 学习笔记
+https://docs.pytest.org/en/latest/example/simple.html

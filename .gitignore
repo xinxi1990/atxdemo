@@ -1,7 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc[cod]
 keyconfig.py
 .pytest_cache
 logs/*
-*.pyc
 .idea/*
 data/*
 reports/*
+screenshot/*
+myreportt/*

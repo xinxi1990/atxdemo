@@ -1,0 +1,25 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试首页",
+    "children" : [ {
+      "name" : "测试推荐",
+      "children" : [ {
+        "name" : "test_home.TestHome.test_home_guesslike",
+        "uid" : "1ca36fee6a852666",
+        "parentUid" : "2c90cd69a01dc0e61b23a1aa42750bfe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544447516766,
+          "stop" : 1544447546002,
+          "duration" : 29236
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c90cd69a01dc0e61b23a1aa42750bfe"
+    } ],
+    "uid" : "cd40cc18d2ba81a6d4fc191501925a52"
+  } ]
+}

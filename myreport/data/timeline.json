@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "bogon",
+    "children" : [ {
+      "name" : "10305-MainThread",
+      "children" : [ {
+        "name" : "test_home.TestHome.test_home_guesslike",
+        "uid" : "1ca36fee6a852666",
+        "parentUid" : "9c9d93454197e17f4be248e075e40afb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1544447516766,
+          "stop" : 1544447546002,
+          "duration" : 29236
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c9d93454197e17f4be248e075e40afb"
+    } ],
+    "uid" : "2073f7d556df5d27a604e307fdf127df"
+  } ]
+}

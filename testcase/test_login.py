@@ -16,6 +16,7 @@ from module.home import Home
 
 @pytest.mark.usefixtures('driver_setup')
 @pytest.mark.run(order=1)
+# 指定login先执行
 class TestLogin:
 
     @pytest.fixture()
@@ -28,5 +29,6 @@ class TestLogin:
 
 
     @allure.story('测试登录')
+    @pytest.mark.P0
     def test_login(self,init):
         init.login()

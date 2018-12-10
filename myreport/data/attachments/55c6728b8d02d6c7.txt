@@ -1,0 +1,6 @@
+INFO:root:app测试开始!
+INFO:root:a3f8ca3a
+INFO:root:设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+INFO:root:连接设备:a3f8ca3a
+INFO:root:driver初始化
+INFO:root:初始化首页

@@ -16,8 +16,9 @@ sys.path.append('..')
 from tools.loggers import JFMlogging
 logger = JFMlogging().getloger()
 
-
-@pytest.fixture()
+# 当设置autouse为True时,
+# 在一个session内的所有的test都会自动调用这个fixture
+@pytest.fixture(autouse=True)
 def driver_setup(request):
     logger.info("app测试开始!")
     request.instance.driver = Driver().init_driver(device_name)
@@ -29,3 +30,21 @@ def driver_setup(request):
         logger.info("app测试结束!")
     request.addfinalizer(driver_teardown)
 
+
+@pytest.hookimpl(tryfirst=True, hookwrapper=True)
+def pytest_runtest_makereport(item, call):
+    # execute all other hooks to obtain the report object
+    outcome = yield
+    rep = outcome.get_result()
+
+    # we only look at actual failing test calls, not setup/teardown
+    if rep.when == "call" and rep.failed:
+        mode = "a" if os.path.exists("failures") else "w"
+        with open("failures", mode) as f:
+            # let's also access a fixture for the fun of it
+            if "tmpdir" in item.fixturenames:
+                extra = " (%s)" % item.funcargs["tmpdir"]
+            else:
+                extra = ""
+            print "写入失败截图..."
+            f.write(rep.nodeid + extra + "\n")

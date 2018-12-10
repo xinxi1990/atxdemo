@@ -940,3 +940,659 @@
 [2018-12-10 19:42:37,007] [INFO] [bogon][base.py - line:148] 点击返回
 [2018-12-10 19:42:37,009] [INFO] [bogon][test_home.py - line:23] 结束首页
 [2018-12-10 19:42:37,010] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 19:55:28,544] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:55:28,544] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:55:28,765] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:55:28,766] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:55:28,766] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:56:04,208] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:56:04,209] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:56:04,435] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:56:04,436] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:56:04,436] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:56:08,450] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 19:56:10,460] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:56:10,460] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:56:10,666] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:56:10,667] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:56:10,667] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:56:14,646] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 19:56:16,654] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:56:16,654] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:56:16,866] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:56:16,866] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:56:16,867] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:56:46,049] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:56:46,049] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:56:46,266] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:56:46,267] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:56:46,268] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:56:50,263] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 19:56:52,270] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:56:52,270] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:56:52,465] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:56:52,466] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:56:52,467] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:58:22,386] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 19:58:22,387] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 19:58:22,596] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 19:58:22,596] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 19:58:22,597] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 19:58:28,631] [INFO] [bogon][base.py - line:45] 点击元素:消息
+[2018-12-10 19:58:28,765] [INFO] [bogon][test_news.py - line:24] 初始化消息
+[2018-12-10 19:58:30,207] [INFO] [bogon][base.py - line:45] 点击元素:精选活动
+[2018-12-10 19:58:30,208] [INFO] [bogon][test_news.py - line:26] 结束消息
+[2018-12-10 19:58:30,208] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:07:53,833] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:07:53,833] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:07:54,036] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:07:54,036] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:07:54,037] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:08:02,302] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:08:02,435] [INFO] [bogon][test_push.py - line:26] 初始化消息
+[2018-12-10 20:08:02,443] [INFO] [bogon][test_push.py - line:28] 结束消息
+[2018-12-10 20:08:02,443] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:09:08,182] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:09:08,182] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:09:08,375] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:09:08,376] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:09:08,377] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:09:14,502] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:09:14,616] [INFO] [bogon][test_push.py - line:26] 初始化消息
+[2018-12-10 20:09:14,622] [INFO] [bogon][test_push.py - line:28] 结束消息
+[2018-12-10 20:09:14,623] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:10:32,769] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:10:32,770] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:10:32,966] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:10:32,968] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:10:32,968] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:10:38,992] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:10:39,105] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:10:39,108] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:10:39,108] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:10:50,386] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:10:50,386] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:10:50,566] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:10:50,567] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:10:50,567] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:10:57,395] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:10:57,507] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:10:57,528] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:10:57,528] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:10:57,530] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:10:57,530] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:10:57,707] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:10:57,707] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:10:57,708] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:11:05,824] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:11:05,926] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:11:05,935] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:11:05,936] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:11:05,938] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:11:05,938] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:11:06,116] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:11:06,117] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:11:06,118] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:11:11,990] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:11:12,117] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:11:12,127] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:11:12,127] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:11:12,129] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:11:12,129] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:11:12,316] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:11:12,317] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:11:12,317] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:11:19,312] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:11:19,415] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:11:19,419] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:11:19,420] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:11:19,422] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:11:19,422] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:11:19,595] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:11:19,596] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:11:19,596] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:11:25,765] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:11:25,876] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:11:25,885] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:11:25,885] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:11:25,887] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:11:25,888] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:11:26,076] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:11:26,077] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:11:26,078] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:11:32,336] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:11:32,446] [INFO] [bogon][test_push.py - line:30] 初始化消息
+[2018-12-10 20:11:32,454] [INFO] [bogon][test_push.py - line:32] 结束消息
+[2018-12-10 20:11:32,454] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:13:35,454] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:13:35,454] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:13:35,637] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:13:35,638] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:13:35,638] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:13:41,213] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:13:41,245] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:13:41,247] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:13:41,247] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:13:41,418] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:13:41,419] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:13:41,419] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:13:47,459] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:13:47,472] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:13:47,474] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:13:47,475] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:13:47,649] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:13:47,649] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:13:47,650] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:13:53,821] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:13:53,829] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:13:53,831] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:13:53,831] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:13:54,008] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:13:54,008] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:13:54,009] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:00,131] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:14:00,146] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:00,148] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:00,148] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:00,348] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:00,349] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:00,349] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:08,851] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:14:08,860] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:08,862] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:08,862] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:09,047] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:09,048] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:09,048] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:15,398] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:14:15,407] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:20,235] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:20,235] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:20,438] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:20,439] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:20,439] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:26,563] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:14:26,678] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:14:26,699] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:26,702] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:26,702] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:26,868] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:26,868] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:26,869] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:31,722] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:51,095] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:51,095] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:51,317] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:51,317] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:51,318] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:14:58,263] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:14:58,396] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:14:58,423] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:14:58,423] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:14:58,425] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:14:58,425] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:14:58,589] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:14:58,589] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:14:58,590] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:15:04,901] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:15:05,007] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:15:05,022] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:15:05,022] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:15:05,024] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:15:05,024] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:15:05,218] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:15:05,219] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:15:05,219] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:15:11,595] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:15:11,707] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:15:11,754] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:15:11,754] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:15:11,755] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:15:11,756] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:15:11,928] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:15:11,928] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:15:11,929] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:15:17,454] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:15:17,567] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:15:17,584] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:15:17,585] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:15:17,587] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:15:17,587] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:15:17,757] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:15:17,758] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:15:17,759] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:15:24,120] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:15:24,238] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:15:24,251] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:15:24,251] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:15:24,253] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:15:24,253] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:15:24,438] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:15:24,439] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:15:24,440] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:15:30,792] [INFO] [bogon][base.py - line:45] 点击元素:发布
+[2018-12-10 20:15:30,899] [INFO] [bogon][test_push.py - line:32] 初始化消息
+[2018-12-10 20:15:30,930] [INFO] [bogon][test_push.py - line:34] 结束消息
+[2018-12-10 20:15:30,930] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:21:07,434] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:21:07,434] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:21:07,629] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': False, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.systemui', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:21:07,629] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:21:07,630] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:21:17,907] [INFO] [bogon][base.py - line:47] 点击元素:我的
+[2018-12-10 20:21:18,038] [INFO] [bogon][test_login.py - line:26] 初始化登录
+[2018-12-10 20:21:19,421] [INFO] [bogon][base.py - line:47] 点击元素:头像
+[2018-12-10 20:21:19,983] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:21:25,718] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:21:25,718] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:21:25,908] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:21:25,909] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:21:25,909] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:21:34,266] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:21:34,368] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:21:35,723] [INFO] [bogon][base.py - line:47] 点击元素:汽车服务
+[2018-12-10 20:21:35,948] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:21:35,950] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:21:35,950] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:21:35,954] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:21:35,954] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:21:36,157] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:21:36,158] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:21:36,158] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:21:42,532] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:21:42,638] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:21:43,999] [INFO] [bogon][base.py - line:47] 点击元素:二手车
+[2018-12-10 20:21:44,268] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:21:44,270] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:21:44,270] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:21:44,273] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:21:44,274] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:21:44,457] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:21:44,457] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:21:44,457] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:21:51,652] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:21:51,768] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:21:53,158] [INFO] [bogon][base.py - line:47] 点击元素:家政服务
+[2018-12-10 20:21:53,378] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:21:53,380] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:21:53,380] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:21:53,382] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:21:53,383] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:21:53,547] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:21:53,548] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:21:53,548] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:21:59,589] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:21:59,718] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:22:01,098] [INFO] [bogon][base.py - line:47] 点击元素:本地服务
+[2018-12-10 20:22:01,335] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:22:01,337] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:22:01,338] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:22:01,343] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:22:01,343] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:22:01,517] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:22:01,518] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:22:01,518] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:22:07,007] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:22:07,108] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:22:08,505] [INFO] [bogon][base.py - line:47] 点击元素:装修建材
+[2018-12-10 20:22:08,735] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:22:08,737] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:22:08,737] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:22:08,741] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:22:08,741] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:22:08,918] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:22:08,920] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:22:08,921] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:22:15,124] [INFO] [bogon][base.py - line:47] 点击元素:发布
+[2018-12-10 20:22:15,239] [INFO] [bogon][test_push.py - line:35] 初始化消息
+[2018-12-10 20:22:16,610] [INFO] [bogon][base.py - line:47] 点击元素:房产
+[2018-12-10 20:22:16,821] [INFO] [bogon][base.py - line:150] 点击返回
+[2018-12-10 20:22:16,823] [INFO] [bogon][test_push.py - line:37] 结束消息
+[2018-12-10 20:22:16,823] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:29:59,787] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:29:59,788] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:29:59,978] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': False, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.android.systemui', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:29:59,979] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:29:59,979] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:34:46,966] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:34:46,966] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:34:47,169] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:34:47,170] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:34:47,170] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:34:55,211] [INFO] [bogon][base.py - line:47] 点击元素:消息
+[2018-12-10 20:34:55,330] [INFO] [bogon][test_news.py - line:24] 初始化消息
+[2018-12-10 20:34:56,770] [INFO] [bogon][base.py - line:47] 点击元素:精选活动
+[2018-12-10 20:34:56,771] [INFO] [bogon][test_news.py - line:26] 结束消息
+[2018-12-10 20:34:56,772] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:36:51,148] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:36:51,149] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:36:51,408] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:36:51,408] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:36:51,409] [INFO] [bogon][conftest.py - line:24] driver初始化
+[2018-12-10 20:36:57,445] [INFO] [bogon][base.py - line:47] 点击元素:消息
+[2018-12-10 20:36:57,559] [INFO] [bogon][test_news.py - line:24] 初始化消息
+[2018-12-10 20:36:58,975] [INFO] [bogon][base.py - line:47] 点击元素:精选活动
+[2018-12-10 20:36:58,977] [INFO] [bogon][test_news.py - line:26] 结束消息
+[2018-12-10 20:36:58,977] [INFO] [bogon][conftest.py - line:29] app测试结束!
+[2018-12-10 20:37:20,323] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:37:20,323] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:37:20,529] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:37:20,529] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:37:22,555] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:37:22,556] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:37:22,759] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:37:22,759] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:37:24,773] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:37:24,773] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:37:24,969] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:37:24,970] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:37:26,985] [INFO] [bogon][conftest.py - line:22] app测试开始!
+[2018-12-10 20:37:26,986] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:37:27,198] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:37:27,199] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:41:54,039] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:41:54,040] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:41:54,219] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:41:54,219] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:41:54,220] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:41:58,468] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:42:02,200] [INFO] [bogon][base.py - line:47] 点击元素:更多
+[2018-12-10 20:42:02,203] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:42:02,203] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:42:02,208] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:42:02,209] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:42:02,429] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:42:02,432] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:42:02,432] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:42:06,618] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:42:11,188] [INFO] [bogon][base.py - line:113] 向下滑动
+[2018-12-10 20:42:11,189] [INFO] [bogon][base.py - line:138] 向下滑动
+[2018-12-10 20:42:15,410] [INFO] [bogon][base.py - line:113] 向下滑动
+[2018-12-10 20:42:15,412] [INFO] [bogon][base.py - line:138] 向下滑动
+[2018-12-10 20:42:19,579] [INFO] [bogon][base.py - line:113] 向下滑动
+[2018-12-10 20:42:19,579] [INFO] [bogon][base.py - line:138] 向下滑动
+[2018-12-10 20:42:23,859] [INFO] [bogon][base.py - line:113] 向下滑动
+[2018-12-10 20:42:23,859] [INFO] [bogon][base.py - line:138] 向下滑动
+[2018-12-10 20:42:28,009] [INFO] [bogon][base.py - line:113] 向下滑动
+[2018-12-10 20:42:28,011] [INFO] [bogon][base.py - line:138] 向下滑动
+[2018-12-10 20:42:29,880] [INFO] [bogon][base.py - line:186] 断言推荐元素存在,失败!
+[2018-12-10 20:42:29,906] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:42:29,906] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:42:29,909] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:42:29,910] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:42:30,108] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:42:30,109] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:42:30,110] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:42:36,485] [INFO] [bogon][base.py - line:47] 点击元素:我的
+[2018-12-10 20:42:36,588] [INFO] [bogon][test_login.py - line:27] 初始化登录
+[2018-12-10 20:42:37,963] [INFO] [bogon][base.py - line:47] 点击元素:头像
+[2018-12-10 20:42:53,663] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:43:37,509] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:43:37,509] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:43:37,677] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:43:37,678] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:43:37,678] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:43:41,849] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:43:46,110] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:43:46,110] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:43:50,359] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:43:50,359] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:43:55,349] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:43:55,349] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:44:00,199] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:44:00,199] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:44:04,619] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:44:04,619] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:44:06,892] [INFO] [bogon][base.py - line:187] 断言推荐元素存在,失败!
+[2018-12-10 20:44:07,342] [INFO] [bogon][base.py - line:93] 截图:截图
+[2018-12-10 20:44:07,373] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:44:07,373] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:44:07,376] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:44:07,376] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:44:07,579] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:44:07,579] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:44:07,580] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:44:12,078] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:44:14,080] [INFO] [bogon][base.py - line:48] 点击元素:更多
+[2018-12-10 20:44:14,082] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:44:14,083] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:44:14,087] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:44:14,088] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:44:14,299] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:44:14,300] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:44:14,300] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:44:20,250] [INFO] [bogon][base.py - line:48] 点击元素:我的
+[2018-12-10 20:44:20,358] [INFO] [bogon][test_login.py - line:27] 初始化登录
+[2018-12-10 20:44:21,730] [INFO] [bogon][base.py - line:48] 点击元素:头像
+[2018-12-10 20:44:37,475] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:45:56,045] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:45:56,046] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:45:56,229] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:45:56,229] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:45:56,230] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:46:00,510] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:46:04,244] [INFO] [bogon][base.py - line:48] 点击元素:更多
+[2018-12-10 20:46:04,247] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:46:04,247] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:46:04,259] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:46:04,259] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:46:04,499] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:46:04,499] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:46:04,500] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:46:08,669] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:46:12,879] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:46:12,880] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:46:17,199] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:46:17,199] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:46:21,399] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:46:21,400] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:46:25,749] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:46:25,751] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:46:30,389] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:46:30,389] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:46:32,652] [INFO] [bogon][base.py - line:187] 断言推荐元素存在,失败!
+[2018-12-10 20:46:32,685] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:46:32,685] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:46:32,690] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:46:32,690] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:46:32,889] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:46:32,890] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:46:32,890] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:46:39,923] [INFO] [bogon][base.py - line:48] 点击元素:我的
+[2018-12-10 20:46:40,038] [INFO] [bogon][test_login.py - line:27] 初始化登录
+[2018-12-10 20:46:41,411] [INFO] [bogon][base.py - line:48] 点击元素:头像
+[2018-12-10 20:46:57,110] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:49:48,577] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:49:48,579] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:49:48,769] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:49:48,770] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:49:48,771] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:49:57,010] [INFO] [bogon][base.py - line:48] 点击元素:我的
+[2018-12-10 20:49:57,109] [INFO] [bogon][test_login.py - line:27] 初始化登录
+[2018-12-10 20:49:58,496] [INFO] [bogon][base.py - line:48] 点击元素:头像
+[2018-12-10 20:50:14,290] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:50:14,298] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:50:14,299] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:50:14,469] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:50:14,470] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:50:14,470] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:50:19,199] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:50:23,778] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:50:23,779] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:50:28,260] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:50:28,261] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:50:32,819] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:50:32,822] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:50:37,559] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:50:37,559] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:50:41,869] [INFO] [bogon][base.py - line:114] 向下滑动
+[2018-12-10 20:50:41,869] [INFO] [bogon][base.py - line:139] 向下滑动
+[2018-12-10 20:50:44,071] [INFO] [bogon][base.py - line:187] 断言推荐元素存在,失败!
+[2018-12-10 20:50:44,086] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:50:44,086] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:50:44,093] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:50:44,093] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:50:44,279] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:50:44,280] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:50:44,281] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:50:48,379] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:50:50,185] [INFO] [bogon][base.py - line:48] 点击元素:更多
+[2018-12-10 20:50:50,187] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:50:50,187] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:52:08,706] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:52:08,706] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:52:08,928] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:52:08,929] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:52:08,929] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:52:15,109] [INFO] [bogon][base.py - line:50] 点击元素:我的
+[2018-12-10 20:52:15,220] [INFO] [bogon][test_login.py - line:27] 初始化登录
+[2018-12-10 20:52:16,730] [INFO] [bogon][base.py - line:50] 点击元素:头像
+[2018-12-10 20:52:32,446] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:52:32,455] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:52:32,456] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:52:32,629] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:52:32,631] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:52:32,632] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:52:36,749] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:52:41,060] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:52:41,060] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:52:45,430] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:52:45,431] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:52:49,679] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:52:49,679] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:52:53,919] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:52:53,922] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:52:58,220] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:52:58,220] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:53:00,299] [INFO] [bogon][base.py - line:189] 断言推荐元素存在,失败!
+[2018-12-10 20:53:00,313] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:53:00,314] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:53:00,321] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:53:00,322] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:53:00,529] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:53:00,530] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:53:00,530] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:53:04,740] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:53:08,774] [INFO] [bogon][base.py - line:50] 点击元素:更多
+[2018-12-10 20:53:08,776] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:53:08,777] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 20:54:24,645] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 20:54:24,645] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 20:54:24,869] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 20:54:24,870] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 20:54:24,871] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 20:54:29,149] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 20:54:33,799] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:54:33,799] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:54:39,279] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:54:39,281] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:54:43,450] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:54:43,450] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:54:47,630] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:54:47,632] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:54:52,169] [INFO] [bogon][base.py - line:116] 向下滑动
+[2018-12-10 20:54:52,169] [INFO] [bogon][base.py - line:141] 向下滑动
+[2018-12-10 20:54:54,419] [INFO] [bogon][base.py - line:189] 断言推荐元素存在,失败!
+[2018-12-10 20:54:54,739] [INFO] [bogon][base.py - line:95] 截图:1544446494.42截图
+[2018-12-10 20:54:54,771] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 20:54:54,771] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 21:03:11,028] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 21:03:11,028] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 21:03:11,241] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 21:03:11,241] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 21:03:11,242] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 21:03:15,439] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 21:03:17,452] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:03:17,453] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:03:21,800] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:03:21,801] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:03:26,776] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:03:26,777] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:03:31,829] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:03:31,829] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:03:36,830] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:03:36,833] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:03:39,613] [INFO] [bogon][base.py - line:195] 断言推荐元素存在,失败!
+[2018-12-10 21:03:39,889] [INFO] [bogon][base.py - line:98] 截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447019.61截图
+[2018-12-10 21:03:39,926] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 21:03:39,926] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 21:05:29,721] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 21:05:29,722] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 21:05:29,920] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 21:05:29,921] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 21:05:29,921] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 21:05:34,000] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 21:05:37,390] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:05:37,391] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:05:41,520] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:05:41,520] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:05:45,580] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:05:45,580] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:05:49,660] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:05:49,660] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:05:54,190] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:05:54,190] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:05:56,293] [INFO] [bogon][base.py - line:195] 断言推荐元素存在,失败!
+[2018-12-10 21:05:56,580] [INFO] [bogon][base.py - line:98] 截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447156.29截图
+[2018-12-10 21:05:56,612] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 21:05:56,612] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 21:06:33,930] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 21:06:33,930] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 21:06:34,141] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 21:06:34,142] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 21:06:34,142] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 21:06:38,351] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 21:06:40,329] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:06:40,330] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:06:44,970] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:06:44,970] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:06:50,152] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:06:50,152] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:06:55,330] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:06:55,332] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:07:00,170] [INFO] [bogon][base.py - line:122] 向下滑动
+[2018-12-10 21:07:00,171] [INFO] [bogon][base.py - line:147] 向下滑动
+[2018-12-10 21:07:02,605] [INFO] [bogon][base.py - line:195] 断言推荐元素存在,失败!
+[2018-12-10 21:07:02,904] [INFO] [bogon][base.py - line:98] 截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447222.61截图
+[2018-12-10 21:07:02,944] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 21:07:02,944] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 21:07:34,253] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 21:07:34,253] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 21:07:34,450] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 21:07:34,451] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 21:07:34,451] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 21:07:38,550] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 21:07:43,023] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:07:43,023] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:07:48,080] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:07:48,080] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:07:52,860] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:07:52,860] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:07:57,670] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:07:57,673] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:08:02,020] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:08:02,021] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:08:04,061] [INFO] [bogon][base.py - line:196] 断言推荐元素存在,失败!
+[2018-12-10 21:08:04,325] [INFO] [bogon][base.py - line:99] 截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447284.06截图
+[2018-12-10 21:08:04,369] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 21:08:04,369] [INFO] [bogon][conftest.py - line:30] app测试结束!
+[2018-12-10 21:11:56,768] [INFO] [bogon][conftest.py - line:23] app测试开始!
+[2018-12-10 21:11:56,768] [INFO] [bogon][driver.py - line:24] a3f8ca3a
+[2018-12-10 21:11:56,969] [INFO] [bogon][driver.py - line:26] 设备信息:{u'displayRotation': 0, u'displaySizeDpY': 816, u'displaySizeDpX': 393, u'screenOn': True, u'displayWidth': 1080, u'productName': u'sirius', u'currentPackageName': u'com.wuba', u'sdkInt': 27, u'displayHeight': 2114, u'naturalOrientation': True}
+[2018-12-10 21:11:56,970] [INFO] [bogon][driver.py - line:33] 连接设备:a3f8ca3a
+[2018-12-10 21:11:56,970] [INFO] [bogon][conftest.py - line:25] driver初始化
+[2018-12-10 21:12:01,306] [INFO] [bogon][test_home.py - line:24] 初始化首页
+[2018-12-10 21:12:03,181] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:12:03,182] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:12:07,960] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:12:07,961] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:12:13,360] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:12:13,362] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:12:18,550] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:12:18,550] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:12:23,391] [INFO] [bogon][base.py - line:123] 向下滑动
+[2018-12-10 21:12:23,393] [INFO] [bogon][base.py - line:148] 向下滑动
+[2018-12-10 21:12:25,703] [INFO] [bogon][base.py - line:196] 断言推荐元素存在,失败!
+[2018-12-10 21:12:25,972] [INFO] [bogon][base.py - line:99] 截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447545.7截图
+[2018-12-10 21:12:26,004] [INFO] [bogon][test_home.py - line:26] 结束首页
+[2018-12-10 21:12:26,005] [INFO] [bogon][conftest.py - line:30] app测试结束!

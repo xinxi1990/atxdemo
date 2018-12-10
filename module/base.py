@@ -8,11 +8,19 @@
 """
 
 import pytest,time,os,re,yaml,json,sys,xmltodict
+import allure
+from allure_commons._allure import attach
+# from allure.constants import AttachmentType
+from allure_commons.types import AttachmentType
 import subprocess,base64
 sys.path.append("..")
+reload(sys)
+sys.setdefaultencoding("utf-8")
 from tools.loggers import JFMlogging
 from config import *
 logger = JFMlogging().getloger()
+
+
 
 class Base():
 
@@ -86,10 +94,14 @@ class Base():
         :return:
         '''
         try:
+            pic_name = os.path.join(screenshot_folder,pic_name)
             self.d.screenshot("{}.jpg".format(pic_name))
             logger.info('截图:{}'.format(pic_name))
+            return pic_name
         except Exception as e:
             logger.info("{}截图失败!{}".format(pic_name,e))
+
+
 
 
     def get_windowsize(self):
@@ -182,5 +194,6 @@ class Base():
             assert True
         else:
             logger.info("断言{}元素存在,失败!".format(element))
-            allure.attach(self.screen_shot("截图"), name="截图", attachment_type=AttachmentType.PNG)
+            fail_pic = str(time.time()) + "截图"
+            attach(self.screen_shot(fail_pic), name="Screenshot", attachment_type=AttachmentType.PNG)
             assert False

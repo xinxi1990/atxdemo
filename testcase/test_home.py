@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 """
@@ -5,7 +6,9 @@
 @Time    : 2018/12/5 18:34
 @describe: 测试首页
 """
-import pytest,time,allure
+import pytest,time,allure,sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 from module.home import Home
 from tools.loggers import JFMlogging
 logger = JFMlogging().getloger()
@@ -28,15 +31,17 @@ class TestHome:
         init.home_search()
 
     @allure.story('测试首页搜索参数化')
-    @pytest.mark.parametrize(('kewords'), [("司机"), ("老师"), ("公寓")])
+    @pytest.mark.parametrize(('kewords'), [(u"司机"), (u"老师"), (u"公寓")])
     def test_home_moresearch(self, init,kewords):
         init.home_more_search(kewords)
 
     @allure.story('测试首页更多')
+    @pytest.mark.P0
     def test_home_more(self, init):
         init.home_more()
 
     @allure.story('测试推荐')
-    def test_home_guesslike(self, init):
+    @pytest.mark.P1
+    def test_home_guesslike(self,init):
         init.home_guesslike()
 

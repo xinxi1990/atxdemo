@@ -1,0 +1,128 @@
+{
+  "uid" : "1ca36fee6a852666",
+  "name" : "test_home.TestHome.test_home_guesslike",
+  "fullName" : "testcase.test_home.TestHome.test_home_guesslike",
+  "historyId" : "f9578f93a985c036800afaca57e6e257",
+  "time" : {
+    "start" : 1544447516766,
+    "stop" : 1544447546002,
+    "duration" : 29236
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: ",
+  "statusTrace" : "self = <testcase.test_home.TestHome instance at 0x10d1eef38>, init = <module.home.Home instance at 0x10d22db00>\n\n    @allure.story('测试推荐')\n    @pytest.mark.P1\n    def test_home_guesslike(self,init):\n>       init.home_guesslike()\n\ntestcase/test_home.py:46: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nmodule/home.py:62: in home_guesslike\n    self.base.assert_exited(guesslike)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <module.base.Base instance at 0x10d22db48>, element = '\\xe6\\x8e\\xa8\\xe8\\x8d\\x90'\n\n    def assert_exited(self, element):\n        '''\n            断言当前页面存在要查找的元素,存在则判断成功\n            :param driver:\n            :return:\n            '''\n        if self.find_elements(element):\n            logger.info(\"断言{}元素存在,成功!\".format(element))\n            assert True\n        else:\n            logger.info(\"断言{}元素存在,失败!\".format(element))\n            fail_pic = str(time.time()) + \"截图\"\n            attach(self.screen_shot(fail_pic), name=\"Screenshot\", attachment_type=AttachmentType.PNG)\n>           assert False\nE           AssertionError\n\nmodule/base.py:199: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: ",
+    "statusTrace" : "self = <testcase.test_home.TestHome instance at 0x10d1eef38>, init = <module.home.Home instance at 0x10d22db00>\n\n    @allure.story('测试推荐')\n    @pytest.mark.P1\n    def test_home_guesslike(self,init):\n>       init.home_guesslike()\n\ntestcase/test_home.py:46: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\nmodule/home.py:62: in home_guesslike\n    self.base.assert_exited(guesslike)\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\n\nself = <module.base.Base instance at 0x10d22db48>, element = '\\xe6\\x8e\\xa8\\xe8\\x8d\\x90'\n\n    def assert_exited(self, element):\n        '''\n            断言当前页面存在要查找的元素,存在则判断成功\n            :param driver:\n            :return:\n            '''\n        if self.find_elements(element):\n            logger.info(\"断言{}元素存在,成功!\".format(element))\n            assert True\n        else:\n            logger.info(\"断言{}元素存在,失败!\".format(element))\n            fail_pic = str(time.time()) + \"截图\"\n            attach(self.screen_shot(fail_pic), name=\"Screenshot\", attachment_type=AttachmentType.PNG)\n>           assert False\nE           AssertionError\n\nmodule/base.py:199: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8bc8ea4026688d9",
+      "name" : "Captured log setup",
+      "source" : "8bc8ea4026688d9.txt",
+      "type" : "text/plain",
+      "size" : 577
+    }, {
+      "uid" : "98d3c5c91618606c",
+      "name" : "Captured stderr call",
+      "source" : "98d3c5c91618606c.txt",
+      "type" : "text/plain",
+      "size" : 357
+    }, {
+      "uid" : "55c6728b8d02d6c7",
+      "name" : "Captured stderr setup",
+      "source" : "55c6728b8d02d6c7.txt",
+      "type" : "text/plain",
+      "size" : 398
+    }, {
+      "uid" : "3c7476217336cabb",
+      "name" : "Captured log call",
+      "source" : "3c7476217336cabb.txt",
+      "type" : "text/plain",
+      "size" : 716
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true,
+    "attachmentsCount" : 4
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试首页"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "bogon"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试推荐"
+  }, {
+    "name" : "thread",
+    "value" : "10305-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_home.TestHome.test_home_guesslike"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "9c1de11a0bc1fe79",
+        "status" : "failed",
+        "statusDetails" : "NameError: global name 'allure' is not defined",
+        "time" : {
+          "start" : 1544441391226,
+          "stop" : 1544441473906,
+          "duration" : 82680
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "1ca36fee6a852666.json",
+  "parameterValues" : [ ]
+}

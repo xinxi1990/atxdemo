@@ -2,55 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96da1086-19b7-47c1-b5b4-b4339b2d99a5" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/failures" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/attachments/3c7476217336cabb.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/attachments/55c6728b8d02d6c7.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/attachments/8bc8ea4026688d9.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/attachments/98d3c5c91618606c.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/behaviors.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/behaviors.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/categories.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/categories.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/packages.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/suites.csv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/suites.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/test-cases/1ca36fee6a852666.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/data/timeline.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/export/influxDbData.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/export/mail.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/export/prometheusData.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/history/categories-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/history/duration-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/history/history-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/history/history.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/history/retry-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/plugins/behaviors/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/plugins/packages/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/plugins/screen-diff/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/plugins/screen-diff/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/behaviors.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/categories-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/categories.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/duration-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/duration.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/environment.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/executors.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/history-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/launch.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/retry-trend.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/severity.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/status-chart.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/suites.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/myreport/widgets/summary.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/provide/push.item.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/testcase/test_news.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/testcase/test_push.py" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/data/1041ce74-b58f-4c7f-b745-a5378c60cd4e-attachment.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/3759e8a1-0a44-4a32-83ec-48d50133ed31-attachment.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/c2254790-efc0-4307-aa79-2a1620a284b4-attachment.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/c538cffd-0f49-4cd6-aea6-e2400b75a7aa-testsuite.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/cc243d1c-2c8b-4751-83fc-653331a8fa41-attachment.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/e1a7c1fe-94f2-47f4-9a31-afbec2e2f0fa-attachment.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/data/ed8e1da7-be40-4d38-9461-9c7f79ca6d54-attachment.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change beforePath="$PROJECT_DIR$/config.py" afterPath="$PROJECT_DIR$/config.py" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" afterPath="$PROJECT_DIR$/conftest.py" />
       <change beforePath="$PROJECT_DIR$/logs/system.log" afterPath="$PROJECT_DIR$/logs/system.log" />
       <change beforePath="$PROJECT_DIR$/module/base.py" afterPath="$PROJECT_DIR$/module/base.py" />
-      <change beforePath="$PROJECT_DIR$/module/home.py" afterPath="$PROJECT_DIR$/module/home.py" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/29940a74210af6da.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/5d4456975a5c10d6.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/730cfcb98a70cc08.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/75c010dd77330dd3.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/9b983ea338e91d1f.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/attachments/b585b65146f0f594.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/behaviors.csv" afterPath="$PROJECT_DIR$/reports/data/behaviors.csv" />
-      <change beforePath="$PROJECT_DIR$/reports/data/behaviors.json" afterPath="$PROJECT_DIR$/reports/data/behaviors.json" />
-      <change beforePath="$PROJECT_DIR$/reports/data/categories.csv" afterPath="$PROJECT_DIR$/reports/data/categories.csv" />
-      <change beforePath="$PROJECT_DIR$/reports/data/categories.json" afterPath="$PROJECT_DIR$/reports/data/categories.json" />
-      <change beforePath="$PROJECT_DIR$/reports/data/packages.json" afterPath="$PROJECT_DIR$/reports/data/packages.json" />
-      <change beforePath="$PROJECT_DIR$/reports/data/suites.csv" afterPath="$PROJECT_DIR$/reports/data/suites.csv" />
-      <change beforePath="$PROJECT_DIR$/reports/data/suites.json" afterPath="$PROJECT_DIR$/reports/data/suites.json" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/141f83bbbcc8ca24.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/2134be94f9b7c97f.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/test-cases/4fe59047662cc86a.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/reports/data/timeline.json" afterPath="$PROJECT_DIR$/reports/data/timeline.json" />
-      <change beforePath="$PROJECT_DIR$/reports/export/influxDbData.txt" afterPath="$PROJECT_DIR$/reports/export/influxDbData.txt" />
-      <change beforePath="$PROJECT_DIR$/reports/export/prometheusData.txt" afterPath="$PROJECT_DIR$/reports/export/prometheusData.txt" />
-      <change beforePath="$PROJECT_DIR$/reports/history/categories-trend.json" afterPath="$PROJECT_DIR$/reports/history/categories-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/history/duration-trend.json" afterPath="$PROJECT_DIR$/reports/history/duration-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/history/history-trend.json" afterPath="$PROJECT_DIR$/reports/history/history-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/history/history.json" afterPath="$PROJECT_DIR$/reports/history/history.json" />
-      <change beforePath="$PROJECT_DIR$/reports/history/retry-trend.json" afterPath="$PROJECT_DIR$/reports/history/retry-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/behaviors.json" afterPath="$PROJECT_DIR$/reports/widgets/behaviors.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/categories-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/categories-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/categories.json" afterPath="$PROJECT_DIR$/reports/widgets/categories.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/duration-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/duration-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/duration.json" afterPath="$PROJECT_DIR$/reports/widgets/duration.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/history-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/history-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/retry-trend.json" afterPath="$PROJECT_DIR$/reports/widgets/retry-trend.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/severity.json" afterPath="$PROJECT_DIR$/reports/widgets/severity.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/status-chart.json" afterPath="$PROJECT_DIR$/reports/widgets/status-chart.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/suites.json" afterPath="$PROJECT_DIR$/reports/widgets/suites.json" />
-      <change beforePath="$PROJECT_DIR$/reports/widgets/summary.json" afterPath="$PROJECT_DIR$/reports/widgets/summary.json" />
-      <change beforePath="$PROJECT_DIR$/run.py" afterPath="$PROJECT_DIR$/run.py" />
+      <change beforePath="$PROJECT_DIR$/module/news.py" afterPath="$PROJECT_DIR$/module/news.py" />
+      <change beforePath="$PROJECT_DIR$/module/push.py" afterPath="$PROJECT_DIR$/module/push.py" />
+      <change beforePath="$PROJECT_DIR$/reports/app.js" afterPath="$PROJECT_DIR$/myreport/app.js" />
+      <change beforePath="$PROJECT_DIR$/reports/favicon.ico" afterPath="$PROJECT_DIR$/myreport/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/reports/index.html" afterPath="$PROJECT_DIR$/myreport/index.html" />
+      <change beforePath="$PROJECT_DIR$/reports/styles.css" afterPath="$PROJECT_DIR$/myreport/styles.css" />
       <change beforePath="$PROJECT_DIR$/testcase/test_home.py" afterPath="$PROJECT_DIR$/testcase/test_home.py" />
+      <change beforePath="$PROJECT_DIR$/testcase/test_login.py" afterPath="$PROJECT_DIR$/testcase/test_login.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -86,52 +95,10 @@
       <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/conftest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
               <folding>
                 <element signature="e#119#155#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="173" column="8" lean-forward="false" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_home.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/test_home.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/home.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="e#113#126#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -140,8 +107,48 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="270">
+              <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4762">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_allure.py" pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python2.7/site-packages/allure_commons/_allure.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/find.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -151,8 +158,8 @@
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="43" />
+              <first_editor relative-caret-position="355">
+                <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="53" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -160,11 +167,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test_home.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/test_home.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/module/login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="-254">
+              <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/home.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
               <folding>
                 <element signature="e#113#126#0" expanded="true" />
               </folding>
@@ -199,19 +226,22 @@
         <option value="$PROJECT_DIR$/tools/loggers.py" />
         <option value="$PROJECT_DIR$/module/mine.py" />
         <option value="$PROJECT_DIR$/module/find.py" />
-        <option value="$PROJECT_DIR$/module/push.py" />
-        <option value="$PROJECT_DIR$/module/news.py" />
-        <option value="$PROJECT_DIR$/config.py" />
         <option value="$PROJECT_DIR$/keyconfig.py" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/driver.py" />
         <option value="$PROJECT_DIR$/module/login.py" />
-        <option value="$PROJECT_DIR$/conftest.py" />
-        <option value="$PROJECT_DIR$/testcase/test_login.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/module/base.py" />
-        <option value="$PROJECT_DIR$/testcase/test_home.py" />
         <option value="$PROJECT_DIR$/module/home.py" />
+        <option value="$PROJECT_DIR$/module/news.py" />
+        <option value="$PROJECT_DIR$/testcase/test_news.py" />
+        <option value="$PROJECT_DIR$/testcase/test_push.py" />
+        <option value="$PROJECT_DIR$/provide/push.item.json" />
+        <option value="$PROJECT_DIR$/module/push.py" />
+        <option value="$PROJECT_DIR$/testcase/test_login.py" />
+        <option value="$PROJECT_DIR$/testcase/test_home.py" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/module/base.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -222,11 +252,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1521" />
-    <option name="y" value="28" />
-    <option name="width" value="1742" />
-    <option name="height" value="1025" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1388" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -288,6 +318,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/provide" />
+      <recent name="$PROJECT_DIR$/testcase" />
       <recent name="$PROJECT_DIR$/tools" />
     </key>
   </component>
@@ -453,7 +485,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1521" y="28" width="1742" height="1025" extended-state="0" />
+    <frame x="52" y="23" width="1388" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -461,8 +493,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3573735" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3286638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14935064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34102565" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18880597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -550,9 +582,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="30" column="23" lean-forward="false" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="e#113#126#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,67 +633,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools/loggers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查看元素.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/news.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/push.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/find.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/mine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keyconfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" lean-forward="false" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///usr/local/lib/python2.7/site-packages/_pytest/config/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
           <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -672,33 +646,6 @@
         <state relative-caret-position="21">
           <caret line="1020" column="12" lean-forward="false" selection-start-line="1020" selection-start-column="12" selection-end-line="1020" selection-end-column="12" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="39" column="43" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="43" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#125#142#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,72 +677,211 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conftest.py">
+    <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="32" />
           <folding>
-            <element signature="e#119#155#0" expanded="true" />
+            <element signature="e#47#74#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/module/news.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="328">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#115#142#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#95#120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provide/push.item.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="10" lean-forward="false" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/login.py">
+    <entry file="file://$PROJECT_DIR$/testcase/test_push.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="-212">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
-            <element signature="e#113#126#0" expanded="true" />
+            <element signature="e#125#142#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/mine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查看元素.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/push.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testcase/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="837">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="19" />
+          <folding>
+            <element signature="e#115#140#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/module/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="173" column="8" lean-forward="false" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/截图.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/test_home.py">
+    <entry file="file://$PROJECT_DIR$/module/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="-254">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/home.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="259">
+          <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
           <folding>
             <element signature="e#113#126#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/keyconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/loggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="43" column="19" lean-forward="false" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="58" lean-forward="false" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/find.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/allure_commons/_allure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4762">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/failures">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="e#119#155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="270">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding />
         </state>
       </provider>
