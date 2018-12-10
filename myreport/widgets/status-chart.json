@@ -1,10 +1,10 @@
 [ {
-  "uid" : "1ca36fee6a852666",
+  "uid" : "77271dfbf08a917",
   "name" : "test_home.TestHome.test_home_guesslike",
   "time" : {
-    "start" : 1544447516766,
-    "stop" : 1544447546002,
-    "duration" : 29236
+    "start" : 1544454198052,
+    "stop" : 1544454224569,
+    "duration" : 26517
   },
   "status" : "failed",
   "severity" : "normal"

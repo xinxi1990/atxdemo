@@ -21,9 +21,9 @@ class TestNews:
         self.home = Home(self.driver)
         self.home.news_tab()
         self.news = News(self.driver)
-        logger.info("初始化消息")
+        logger.info("初始化消息模块")
         yield self.news
-        logger.info("结束消息")
+        logger.info("结束消息模块")
 
     @pytest.mark.flaky(reruns=5, reruns_delay=2)
     @allure.story('测试精选活动')

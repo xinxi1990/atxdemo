@@ -7,13 +7,13 @@
       "name" : "AssertionError: ",
       "children" : [ {
         "name" : "test_home.TestHome.test_home_guesslike",
-        "uid" : "1ca36fee6a852666",
+        "uid" : "77271dfbf08a917",
         "parentUid" : "fcd162b570a8b3223f492d623fcdc98d",
         "status" : "failed",
         "time" : {
-          "start" : 1544447516766,
-          "stop" : 1544447546002,
-          "duration" : 29236
+          "start" : 1544454198052,
+          "stop" : 1544454224569,
+          "duration" : 26517
         },
         "flaky" : false,
         "parameters" : [ ]

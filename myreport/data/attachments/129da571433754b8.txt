@@ -9,4 +9,3 @@ INFO:root:向下滑动
 INFO:root:向下滑动
 INFO:root:向下滑动
 INFO:root:断言推荐元素存在,失败!
-INFO:root:截图:/Users/xinxi/PycharmProjects/atxdemo/screenshot/1544447545.7截图

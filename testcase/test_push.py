@@ -32,9 +32,9 @@ class TestNews:
         self.home = Home(self.driver)
         self.home.push_tab()
         self.push = Push(self.driver)
-        logger.info("初始化消息")
+        logger.info("初始化发布模块")
         yield self.push
-        logger.info("结束消息")
+        logger.info("结束发布模块")
 
 
     @allure.story('测试发布参数化' + '\n' + '使用json文件')

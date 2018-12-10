@@ -86,24 +86,6 @@ class Base():
         self.d.double_click(x, y,time)
         logger.info("点击坐标:{},{}".format(x,y))
 
-
-    def screen_shot(self,pic_name):
-        '''
-        截图操作
-        pic_name:截图名称
-        :return:
-        '''
-        try:
-            pic_name = os.path.join(screenshot_folder,pic_name)
-            self.d.screenshot("{}.jpg".format(pic_name))
-            logger.info('截图:{}'.format(pic_name))
-            return pic_name
-        except Exception as e:
-            logger.info("{}截图失败!{}".format(pic_name,e))
-
-
-
-
     def get_windowsize(self):
         '''
         获取屏幕尺寸
@@ -111,7 +93,7 @@ class Base():
         '''
         window_size = self.d.window_size()
         width = int(window_size[0])
-        height = int(window_size[0])
+        height = int(window_size[1])
         return width, height
 
     def swip_down(self, time=0.5):
@@ -148,9 +130,6 @@ class Base():
                 logger.info("向下滑动")
 
 
-
-
-
     def back(self):
         '''
         模拟物理键返回
@@ -181,8 +160,6 @@ class Base():
             return is_exited
 
 
-
-
     def assert_exited(self, element):
         '''
         断言当前页面存在要查找的元素,存在则判断成功
@@ -194,6 +171,4 @@ class Base():
             assert True
         else:
             logger.info("断言{}元素存在,失败!".format(element))
-            fail_pic = str(time.time()) + "截图"
-            attach(self.screen_shot(fail_pic), name="Screenshot", attachment_type=AttachmentType.PNG)
             assert False

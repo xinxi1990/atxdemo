@@ -21,9 +21,9 @@ class TestHome:
     @pytest.fixture()
     def init(self,scope="class"):
         self.home = Home(self.driver)
-        logger.info("初始化首页")
+        logger.info("初始化首页模块")
         yield self.home
-        logger.info("结束首页")
+        logger.info("结束首页模块")
 
 
     @allure.story('测试首页搜索')

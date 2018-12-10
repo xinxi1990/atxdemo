@@ -2,24 +2,24 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "bogon",
+    "name" : "xinxideMacBook-Pro.local",
     "children" : [ {
-      "name" : "10305-MainThread",
+      "name" : "29543-MainThread",
       "children" : [ {
         "name" : "test_home.TestHome.test_home_guesslike",
-        "uid" : "1ca36fee6a852666",
-        "parentUid" : "9c9d93454197e17f4be248e075e40afb",
+        "uid" : "77271dfbf08a917",
+        "parentUid" : "8e1a9981c2a18fa06bfc3ac0b9543de8",
         "status" : "failed",
         "time" : {
-          "start" : 1544447516766,
-          "stop" : 1544447546002,
-          "duration" : 29236
+          "start" : 1544454198052,
+          "stop" : 1544454224569,
+          "duration" : 26517
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "9c9d93454197e17f4be248e075e40afb"
+      "uid" : "8e1a9981c2a18fa06bfc3ac0b9543de8"
     } ],
-    "uid" : "2073f7d556df5d27a604e307fdf127df"
+    "uid" : "38e3e4fcaa6be984bb74130f47fd49e3"
   } ]
 }

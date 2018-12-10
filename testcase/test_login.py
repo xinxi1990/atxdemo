@@ -24,8 +24,9 @@ class TestLogin:
         self.home = Home(self.driver)
         self.home.mine_tab()
         self.login = Login(self.driver)
-        logger.info("初始化登录")
+        logger.info("初始化登录模块")
         yield self.login
+        logger.info("结束登录模块")
 
 
     @allure.story('测试登录')
