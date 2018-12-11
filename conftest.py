@@ -28,8 +28,8 @@ def driver_setup(request):
     request.instance.driver = Driver().init_driver(device_name)
     logger.info("driver初始化")
     request.instance.driver.app_start(pck_name, lanuch_activity, stop=True)
-    time.sleep(3)
-
+    time.sleep(lanuch_time)
+    allow(request.instance.driver)
     def driver_teardown():
         logger.info("自动化测试结束!")
         request.instance.driver.app_stop(pck_name)
@@ -38,6 +38,12 @@ def driver_setup(request):
 
 @pytest.hookimpl(tryfirst=True, hookwrapper=True)
 def pytest_runtest_makereport(item, call):
+    '''
+    hook pytest失败
+    :param item:
+    :param call:
+    :return:
+    '''
     # execute all other hooks to obtain the report object
     outcome = yield
     rep = outcome.get_result()
@@ -52,14 +58,13 @@ def pytest_runtest_makereport(item, call):
                 extra = ""
             f.write(rep.nodeid + extra + "\n")
         pic_info = adb_screen_shot()
-        #screen_info= "<img src=\"data:image/jpg;base64,{}\"  height=\"500\" width=\"300\"/>".format(base64_str)
-        # with allure.step(screen_info):
-        #     logger.info('添加失败截图...')
-        # print screen_shot(driver_setup)
-        #attach(base64_str, name="screenshot", attachment_type=AttachmentType.PNG)
         with allure.step('添加失败截图...'):
             allure.attach("失败截图", pic_info, allure.attach_type.JPG)
 
+
+def allow(driver):
+    driver.watcher("允许").when(text="允许").click(text="允许")
+    driver.watcher("跳过 >").when(text="跳过 >").click(text="跳过 >")
 
 
 def screen_shot(driver):
@@ -95,9 +100,6 @@ def adb_screen_shot():
     subprocess.call(cmd,shell=True)
     cmd = 'adb pull /sdcard/screenshot.jpg {}'.format(pic_name)
     subprocess.call(cmd, shell=True)
-    # f = open(pic_name, 'rb')  # 二进制方式打开图文件
-    # base64_str = base64.b64encode(f.read())  # 读取文件内容，转换为base64编码
-    # f.close()
     with open(pic_name, 'rb') as r:
         file_info = r.read()
     return file_info

@@ -1,7 +1,6 @@
 # 简介
 使用uiautomator2+pytest+allure进行Android的UI自动化测试
 
-
 # 环境搭建
 
 ## pytest框架
@@ -35,7 +34,9 @@ python -m weditor<br>
 ## 运行命令
 
 测试单个方法: pytest -k test_home_search --alluredir=reports -s <br>
-测试PO级Case: pytest -v -m "P0" --alluredir=reports
+测试单个用例:pytest -s testcase/test_find.py <br>
+测试PO级Case: pytest -v -m "P0" --alluredir=reports <br>
+不测试PO级Case: pytest -v -m "not P0" --alluredir=reports <br>
 
 ## 生成报告
 allure generate --clean reports -o myreport
@@ -44,3 +45,6 @@ allure generate --clean reports -o myreport
 
 ## 学习笔记
 https://docs.pytest.org/en/latest/example/simple.html
+
+浅谈自动化测试工具 python-uiautomator2
+https://testerhome.com/topics/11357

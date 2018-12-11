@@ -1,13 +1,24 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
-    "uid" : "cd40cc18d2ba81a6d4fc191501925a52",
-    "name" : "测试首页",
+    "uid" : "24e249ef1a122c78d4aa2ffcf776c293",
+    "name" : "初始化类",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3029ffe839ca74972d760e03c243a066",
+    "name" : "测试发现",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     }

@@ -1,0 +1,6 @@
+conftest.py                 27 INFO     自动化测试开始!
+driver.py                   24 INFO     a3f8ca3a
+driver.py                   33 INFO     连接设备:a3f8ca3a
+conftest.py                 29 INFO     driver初始化
+base.py                     53 INFO     点击元素:发现
+test_find.py                26 INFO     初始化首页模块

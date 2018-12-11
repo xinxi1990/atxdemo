@@ -2,24 +2,44 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "测试首页",
+    "name" : "初始化类",
     "children" : [ {
-      "name" : "测试推荐",
+      "name" : "测试发现",
       "children" : [ {
-        "name" : "test_home.TestHome.test_home_guesslike",
-        "uid" : "77271dfbf08a917",
-        "parentUid" : "2c90cd69a01dc0e61b23a1aa42750bfe",
-        "status" : "failed",
+        "name" : "test_find.TestFind.test_find",
+        "uid" : "531c86dbca320b6",
+        "parentUid" : "943cad40cbafd05d39f8d569d0d4dfa7",
+        "status" : "passed",
         "time" : {
-          "start" : 1544454198052,
-          "stop" : 1544454224569,
-          "duration" : 26517
+          "start" : 1544459544236,
+          "stop" : 1544459557293,
+          "duration" : 13057
         },
         "flaky" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "2c90cd69a01dc0e61b23a1aa42750bfe"
+      "uid" : "943cad40cbafd05d39f8d569d0d4dfa7"
     } ],
-    "uid" : "cd40cc18d2ba81a6d4fc191501925a52"
+    "uid" : "24e249ef1a122c78d4aa2ffcf776c293"
+  }, {
+    "name" : "测试发现",
+    "children" : [ {
+      "name" : "测试发现",
+      "children" : [ {
+        "name" : "test_find.TestFind.test_find",
+        "uid" : "531c86dbca320b6",
+        "parentUid" : "ff080dcee66f9dd40d78d2246e4ed59a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1544459544236,
+          "stop" : 1544459557293,
+          "duration" : 13057
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ff080dcee66f9dd40d78d2246e4ed59a"
+    } ],
+    "uid" : "3029ffe839ca74972d760e03c243a066"
   } ]
 }

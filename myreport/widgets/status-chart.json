@@ -1,11 +1,11 @@
 [ {
-  "uid" : "77271dfbf08a917",
-  "name" : "test_home.TestHome.test_home_guesslike",
+  "uid" : "531c86dbca320b6",
+  "name" : "test_find.TestFind.test_find",
   "time" : {
-    "start" : 1544454198052,
-    "stop" : 1544454224569,
-    "duration" : 26517
+    "start" : 1544459544236,
+    "stop" : 1544459557293,
+    "duration" : 13057
   },
-  "status" : "failed",
+  "status" : "passed",
   "severity" : "normal"
 } ]

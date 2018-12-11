@@ -1,0 +1,91 @@
+{
+  "uid" : "531c86dbca320b6",
+  "name" : "test_find.TestFind.test_find",
+  "fullName" : "testcase.test_find.TestFind.test_find",
+  "historyId" : "497a1938a0520647634d7c6a3bc0b5e1",
+  "time" : {
+    "start" : 1544459544236,
+    "stop" : 1544459557293,
+    "duration" : 13057
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a1afe3d22dcb0c69",
+      "name" : "Captured log setup",
+      "source" : "a1afe3d22dcb0c69.txt",
+      "type" : "text/plain",
+      "size" : 351
+    }, {
+      "uid" : "aa5d69676c97f51",
+      "name" : "Captured log call",
+      "source" : "aa5d69676c97f51.txt",
+      "type" : "text/plain",
+      "size" : 52
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "初始化类"
+  }, {
+    "name" : "feature",
+    "value" : "测试发现"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "xinxideMacBook-Pro.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython2"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "测试发现"
+  }, {
+    "name" : "thread",
+    "value" : "47579-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_find.TestFind.test_find"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "531c86dbca320b6.json",
+  "parameterValues" : [ ]
+}

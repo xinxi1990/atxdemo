@@ -7,6 +7,7 @@ lanuch_activity="com.wuba.activity.launch.LaunchActivity"
 device_name="a3f8ca3a"
 wait_timeout = 15
 click_post_delay = 0.5
+lanuch_time = 3
 
 current_path = os.path.abspath(os.path.dirname(__file__))
 screenshot_folder = os.path.join(current_path,"screenshot")

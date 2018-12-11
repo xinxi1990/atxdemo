@@ -23,7 +23,7 @@ class Driver():
         try:
             logger.info(device_name)
             d = ut2.connect(device_name)
-            logger.info("设备信息:{}".format(d.info))
+            #logger.info("设备信息:{}".format(d.info))
             # 设置全局寻找元素超时时间
             d.wait_timeout = wait_timeout  # default 20.0
             # 设置点击元素延迟时间
