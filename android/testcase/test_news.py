@@ -6,8 +6,8 @@
 @describe: 测试消息中心
 """
 import pytest,time,allure
-from module.news import News
-from module.home import Home
+from android.module.news import News
+from android.module.home import Home
 from tools.loggers import JFMlogging
 logger = JFMlogging().getloger()
 from config import *

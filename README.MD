@@ -41,10 +41,21 @@ python -m weditor<br>
 ## 生成报告
 allure generate --clean reports -o myreport
 
-
+## 无线连接
+```
+手机的ip地址需要和pc电脑的ip地址在一个网段上
+d = ut2.connect("192.168.129.93")
+```
 
 ## 学习笔记
 https://docs.pytest.org/en/latest/example/simple.html
+
+
+## iOS环境搭建
+查看设备中app列表
+ideviceinstaller -u 86616cbaa40e52d3f9236ec982dd6f1e933a44bd -l
+
+
 
 浅谈自动化测试工具 python-uiautomator2
 https://testerhome.com/topics/11357

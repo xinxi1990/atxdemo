@@ -6,6 +6,7 @@
 @Time    : 2018/12/5 18:34
 @describe: 创建uiautomator2
 """
+import atx,time
 import subprocess
 import uiautomator2  as ut2
 from config import *
@@ -23,6 +24,7 @@ class Driver():
         try:
             logger.info(device_name)
             d = ut2.connect(device_name)
+            #d = ut2.connect("192.168.129.93")
             #logger.info("设备信息:{}".format(d.info))
             # 设置全局寻找元素超时时间
             d.wait_timeout = wait_timeout  # default 20.0
@@ -35,6 +37,16 @@ class Driver():
         except Exception as e:
             logger.info("初始化driver异常!{}".format(e))
 
+
+
+    def init_ios_driver(self, device_name):
+        try:
+            d = atx.connect("http://localhost:8100")
+            d.start_app(bundle_id)
+            time.sleep(5)
+            return d
+        except Exception as e:
+            logger.info("初始化ios端driver异常!{}".format(e))
 
 
 

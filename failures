@@ -27,3 +27,9 @@ testcase/test_login.py::TestLogin::()::test_login
 testcase/test_home.py::TestHome::()::test_home_guesslike
 testcase/test_home.py::TestHome::()::test_home_guesslike
 testcase/test_home.py::TestHome::()::test_home_guesslike
+testcase/test_login.py::TestLogin::()::test_login
+testcase/test_login.py::TestLogin::()::test_login
+testcase/test_login.py::TestLogin::()::test_login
+testcase/test_home.py::TestHome::()::test_home_guesslike
+testcase/test_home.py::TestHome::()::test_home_guesslike
+testcase/test_home.py::TestHome::()::test_home_guesslike
