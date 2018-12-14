@@ -28,6 +28,6 @@ def init_report():
 
 
 init_env()
-pytest.main(["-s","--reruns=2",  "testcase","--alluredir=data"])
+pytest.main(["-s","--reruns=2", "android/testcase","--alluredir=data"])
 init_report()
 

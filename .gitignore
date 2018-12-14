@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc[cod]
+*.pyc
 keyconfig.py
 .pytest_cache
 logs/*

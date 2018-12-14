@@ -24,7 +24,7 @@ class Driver():
         try:
             logger.info(device_name)
             d = ut2.connect(device_name)
-            #d = ut2.connect("192.168.129.93")
+            # d = ut2.connect("192.168.129.93")
             #logger.info("设备信息:{}".format(d.info))
             # 设置全局寻找元素超时时间
             d.wait_timeout = wait_timeout  # default 20.0

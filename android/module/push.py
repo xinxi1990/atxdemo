@@ -10,7 +10,7 @@
 import pytest,time,allure,sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
-from module.base import Base
+from android.module.base import Base
 from tools.loggers import JFMlogging
 logger = JFMlogging().getloger()
 from config import *

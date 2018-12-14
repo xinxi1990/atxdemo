@@ -160,15 +160,24 @@ class Base():
             return is_exited
 
 
+    # def assert_exited(self, element):
+    #     '''
+    #     断言当前页面存在要查找的元素,存在则判断成功
+    #     :param driver:
+    #     :return:
+    #     '''
+    #     if self.find_elements(element):
+    #         logger.info("断言{}元素存在,成功!".format(element))
+    #         assert True
+    #     else:
+    #         logger.info("断言{}元素存在,失败!".format(element))
+    #         assert False
+
     def assert_exited(self, element):
         '''
         断言当前页面存在要查找的元素,存在则判断成功
         :param driver:
         :return:
         '''
-        if self.find_elements(element):
-            logger.info("断言{}元素存在,成功!".format(element))
-            assert True
-        else:
-            logger.info("断言{}元素存在,失败!".format(element))
-            assert False
+        assert self.find_elements(element) == True,"断言{}元素存在,失败!".format(element)
+        logger.info("断言{}元素存在,成功!".format(element))

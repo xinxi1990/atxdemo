@@ -57,9 +57,9 @@ def pytest_runtest_makereport(item, call):
             else:
                 extra = ""
             f.write(rep.nodeid + extra + "\n")
-        # pic_info = adb_screen_shot()
-        # with allure.step('添加失败截图...'):
-        #     allure.attach("失败截图", pic_info, allure.attach_type.JPG)
+        pic_info = adb_screen_shot()
+        with allure.step('添加失败截图...'):
+            allure.attach("失败截图", pic_info, allure.attach_type.JPG)
 
 
 def allow(driver):
@@ -109,16 +109,16 @@ def adb_screen_shot():
 
 # 当设置autouse为True时,
 # 在一个session内的所有的test都会自动调用这个fixture
-@pytest.fixture(autouse=True)
-def ios_driver_setup(request):
-    logger.info("ios自动化测试开始!")
-    request.instance.driver = Driver().init_ios_driver(ios_device_name)
-    logger.info("driver初始化")
-    ios_allow(request.instance.driver)
-    def driver_teardown():
-        logger.info("ios自动化测试结束!")
-        request.instance.driver.stop_app()
-    request.addfinalizer(driver_teardown)
+# @pytest.fixture(autouse=True)
+# def ios_driver_setup(request):
+#     logger.info("ios自动化测试开始!")
+#     request.instance.driver = Driver().init_ios_driver(ios_device_name)
+#     logger.info("driver初始化")
+#     ios_allow(request.instance.driver)
+#     def driver_teardown():
+#         logger.info("ios自动化测试结束!")
+#         request.instance.driver.stop_app()
+#     request.addfinalizer(driver_teardown)
 
 
 def ios_allow(driver):
